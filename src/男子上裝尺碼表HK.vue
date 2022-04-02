@@ -2,12 +2,13 @@
  * @Description: 男子上装尺码表 hk
  * @Author: lijiapeng
  * @Date: 2022-04-02 10:28:39
- * @LastEditTime: 2022-04-02 10:30:00
+ * @LastEditTime: 2022-04-02 12:29:52
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
 
 <template>
+
   <div class="content">
     <div class="top-title">
       <div class="sizeClose">
@@ -31,19 +32,19 @@
             <div class="select-type">
               <div class="select-numb">
                 <span class="select-show">
-                  <span class="show-content" id="show-content">国际码</span>
-                  <img id="isShow" src="https://img.adidas.com.hk/resources/images/common/downArrow.png" alt="" srcset="">
-                    <img id="isNone" style="display: none" src="https://img.adidas.com.hk/resources/images/common/upArrow.png" alt="" srcset="">
+                  <span class="show-content" id="show-content-one">国际码</span>
+                  <img id="down-show-one" src="https://img.adidas.com.hk/resources/images/common/downArrow.png" alt="" srcset="">
+                  <img id="up-show-one" style="display: none" src="https://img.adidas.com.hk/resources/images/common/upArrow.png" alt="" srcset="">
                 </span>
-                <div class="size-options" id="size-options" style="display: none">
-                  <div class="optionsItem" id="interCode">国际码</div>
-                  <div class="optionsItem" id="asianCode">亚洲码</div>
+                <div class="size-options" id="size-options-one" style="display: none">
+                  <div class="optionsItem" id="inter-code-one">国际码</div>
+                  <div class="optionsItem" id="asian-code-one">亚洲码</div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <div class='size-chart' id="inter-code">
+        <div class='size-chart' id="inter-code-item-one">
           <table> 
             <tbody> 
               <tr class="tr-color tr-title"> 
@@ -156,7 +157,7 @@
             </tbody> 
           </table>
         </div>
-        <div class='size-chart' id="asian-code" style="display:none">
+        <div class='size-chart' id="asian-code-item-one" style="display:none">
           <table> 
             <tbody> 
               <tr class="tr-color tr-title"> 
