@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-02 14:56:47
- * @LastEditTime: 2022-04-02 15:03:04
+ * @LastEditTime: 2022-04-02 17:42:37
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -28,7 +28,7 @@
         <div class="size-content">
           <div class="size-type">
             <div class="size-title">
-              <span>長褲</span>
+              <span class="text-small">長褲</span>
             </div>
             <div class="size-select">
               <div class="select-type">
@@ -196,7 +196,7 @@
         <div class="size-content">
           <div class="size-type">
             <div class="size-title">
-              <span>短褲（5''內長）</span>
+              <span class="text-small">短褲（5''內長）</span>
             </div>
             <div class="size-select">
               <div class="select-type">
@@ -319,7 +319,7 @@
           <div class="size-content">
           <div class="size-type">
             <div class="size-title">
-              <span>短褲（7''內長）</span>
+              <span class="text-small">短褲（7''內長）</span>
             </div>
             <div class="size-select">
               <div class="select-type">

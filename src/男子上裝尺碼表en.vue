@@ -2,7 +2,7 @@
  * @Description: 男子上装尺码表 en
  * @Author: lijiapeng
  * @Date: 2022-04-02 14:04:56
- * @LastEditTime: 2022-04-02 14:40:55
+ * @LastEditTime: 2022-04-02 17:42:03
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -26,7 +26,7 @@
         <div class="size-content">
           <div class="size-type">
             <div class="size-title">
-              <span></span>
+              <span class="text-small"></span>
             </div>
             <div class="size-select">
               <div class="select-type">

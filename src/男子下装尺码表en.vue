@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-02 14:56:18
- * @LastEditTime: 2022-04-02 14:56:18
+ * @LastEditTime: 2022-04-02 17:42:15
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -28,7 +28,7 @@
         <div class="size-content">
           <div class="size-type">
             <div class="size-title">
-              <span>Pants</span>
+              <span class="text-small">Pants</span>
             </div>
             <div class="size-select">
               <div class="select-type">
@@ -196,7 +196,7 @@
         <div class="size-content">
           <div class="size-type">
             <div class="size-title">
-              <span>Shorts (5" Inseam)</span>
+              <span class="text-small">Shorts (5" Inseam)</span>
             </div>
             <div class="size-select">
               <div class="select-type">
@@ -319,7 +319,7 @@
           <div class="size-content">
           <div class="size-type">
             <div class="size-title">
-              <span>Shorts (7" Inseam)</span>
+              <span class="text-small">Shorts (7" Inseam)</span>
             </div>
             <div class="size-select">
               <div class="select-type">
