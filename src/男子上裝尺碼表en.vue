@@ -1,24 +1,23 @@
 <!--
- * @Description: 男子上装尺码表 hk
+ * @Description: 男子上装尺码表 en
  * @Author: lijiapeng
- * @Date: 2022-04-02 10:28:39
- * @LastEditTime: 2022-04-02 14:05:29
+ * @Date: 2022-04-02 14:04:56
+ * @LastEditTime: 2022-04-02 14:04:57
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
 
 <template>
-
   <div class="content">
     <div class="top-title">
       <div class="sizeClose">
         <i id="closeDrawer" class="iconfont iconcross-small"></i>
       </div>
-      <div class="text">男子上裝尺碼表</div>
+      <div class="text">Men's Tops Size Chart</div>
     </div>
     <div class="type">
-      <div id="left-type" class="left active">尺碼表</div>
-      <div id="right-type" class="right">如何測量</div>
+      <div id="left-type" class="left active">SIZE & FIT</div>
+      <div id="right-type" class="right">How to Measure</div>
     </div>
 
 
@@ -26,19 +25,19 @@
       <div class="size-content" id="sizeInfo">
         <div class="size-type">
           <div class="size-title">
-            <span>上装</span>
+            <span></span>
           </div>
           <div class="size-select">
             <div class="select-type">
               <div class="select-numb">
                 <span class="select-show">
-                  <span class="show-content" id="show-content-one">国际码</span>
+                  <span class="show-content" id="show-content-one">International Size</span>
                   <img id="down-show-one" src="https://img.adidas.com.hk/resources/images/common/downArrow.png" alt="" srcset="">
                   <img id="up-show-one" style="display: none" src="https://img.adidas.com.hk/resources/images/common/upArrow.png" alt="" srcset="">
                 </span>
                 <div class="size-options" id="size-options-one" style="display: none">
-                  <div class="optionsItem" id="inter-code-one">国际码</div>
-                  <div class="optionsItem" id="asian-code-one">亚洲码</div>
+                  <div class="optionsItem" id="inter-code-one">International Size</div>
+                  <div class="optionsItem" id="asian-code-one">Asian Size</div>
                 </div>
               </div>
             </div>
@@ -48,10 +47,10 @@
           <table> 
             <tbody> 
               <tr class="tr-color tr-title"> 
-                <td colspan="3"><span>國際尺碼</span></td> 
-                <td><span>胸圍（厘米)</span></td> 
-                <td><span>腰圍（厘米)</span></td> 
-                <td><span>臀圍（厘米）</span></td> 
+                <td colspan="3"><span>International Size</span></td> 
+                <td><span>Chest (cm)</span></td> 
+                <td><span>Waist (cm)</span></td> 
+                <td><span>Hip (cm)</span></td> 
               </tr> 
               <tr class=""> 
                 <td><span>-</span></td> 
@@ -161,10 +160,10 @@
           <table> 
             <tbody> 
               <tr class="tr-color tr-title"> 
-                <td colspan="2"><span>亚洲尺碼</span></td> 
-                <td><span>胸圍（厘米)</span></td> 
-                <td><span>腰圍（厘米)</span></td> 
-                <td><span>臀圍（厘米）</span></td> 
+                <td colspan="2"><span>Asian Size</span></td> 
+                <td><span>Chest (cm)</span></td> 
+                <td><span>Waist (cm)</span></td> 
+                <td><span>Hip (cm)</span></td> 
               </tr> 
               <tr class=""> 
                 <td><span>-</span></td> 
@@ -293,7 +292,4 @@
       </div>
     </div>
   </div>
-
 </template>
-
-      
