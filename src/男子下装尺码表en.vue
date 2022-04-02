@@ -1,0 +1,456 @@
+<!--
+ * @Description: 
+ * @Author: lijiapeng
+ * @Date: 2022-04-02 14:56:18
+ * @LastEditTime: 2022-04-02 14:56:18
+ * @LastEditors: lijiapeng
+ * @Reference: 
+-->
+
+<template>
+  <div class="content">
+    <div class="top-title">
+      <div class="sizeClose">
+        <i id="closeDrawer" class="iconfont iconcross-small"></i>
+      </div>
+      <div class="text">Men's Bottom Size Chart</div>
+    </div>
+    <div class="type">
+      <!-- <div id="left-type" class="left active">尺碼表</div> -->
+      <!-- <div id="right-type" class="right">如何測量</div> -->
+      <div id="left-type" class="left active">SIZE & FIT</div>
+      <div id="right-type" class="right">How to Measure</div>
+    </div>
+
+
+    <div class="table-info">
+      <div class="size-info" id="sizeInfo">
+        <div class="size-content">
+          <div class="size-type">
+            <div class="size-title">
+              <span>Pants</span>
+            </div>
+            <div class="size-select">
+              <div class="select-type">
+                <div class="select-numb">
+                  <span class="select-show">
+                    <span class="show-content" id="show-content-one">International Size</span>
+                    <img id="down-show-one" src="https://img.adidas.com.hk/resources/images/common/downArrow.png" alt="" srcset="">
+                    <img id="up-show-one" style="display: none" src="https://img.adidas.com.hk/resources/images/common/upArrow.png" alt="" srcset="">
+                  </span>
+                  <div class="size-options" id="size-options-one" style="display: none">
+                    <div class="optionsItem" id="inter-code-one">International Size</div>
+                    <div class="optionsItem" id="asian-code-one">Asian Size</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class='size-chart' id="inter-code-item-one">
+            <table> 
+              <tbody> 
+                <tr class="tr-color tr-title"> 
+                  <td colspan="3"><span>International Size</span></td> 
+                  <td><span>Waist (cm)</span></td> 
+                  <td><span>Hip (cm)</span></td> 
+                  <td><span>Inseam (cm)</span></td> 
+                </tr> 
+                <tr class=""> 
+                  <td rowspan="2"><span> XS</span></td> 
+                  <td><span> 28"</span></td> 
+                  <td><span> 2832</span></td> 
+                  <td rowspan="2"><span>69 - 74</span></td> 
+                  <td rowspan="2"><span>81 - 86</span></td> 
+                  <td rowspan="2"><span>81</span></td> 
+                </tr> 
+                <tr class=""> 
+                  <td><span>29"</span></td> 
+                  <td><span>2932</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td rowspan="3"><span>S</span></td> 
+                  <td><span>30"</span></td> 
+                  <td><span>3032</span></td> 
+                  <td rowspan="3"><span>76 - 81</span></td> 
+                  <td rowspan="3"><span>89 - 94</span></td> 
+                  <td rowspan="3"><span>82</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>31"</span></td> 
+                  <td><span>3132</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>32"</span></td> 
+                  <td><span>3232</span></td> 
+                </tr>
+
+                <tr class=""> 
+                  <td rowspan="2"><span>M</span></td> 
+                  <td><span>33"</span></td> 
+                  <td><span>3332</span></td> 
+                  <td rowspan="2"><span>81 - 89</span></td> 
+                  <td rowspan="2"><span>94 - 102</span></td> 
+                  <td rowspan="2"><span>82</span></td> 
+                </tr> 
+                <tr class=""> 
+                  <td><span>34"</span></td> 
+                  <td><span>3432</span></td> 
+                </tr>
+
+                <tr class="tr-color"> 
+                  <td rowspan="3"><span>L</span></td> 
+                  <td><span>35"</span></td> 
+                  <td><span>3532</span></td> 
+                  <td rowspan="3"><span>89 - 99</span></td> 
+                  <td rowspan="3"><span>102 - 112</span></td> 
+                  <td rowspan="3"><span>83</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>36"</span></td> 
+                  <td><span>3632</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>38"</span></td> 
+                  <td><span>3832</span></td> 
+                </tr> 
+
+                <tr class=""> 
+                  <td rowspan="2"><span>XL</span></td> 
+                  <td><span>40"</span></td> 
+                  <td><span> -</span></td> 
+                  <td rowspan="2"><span>99 - 107</span></td> 
+                  <td rowspan="2"><span>112 - 122</span></td> 
+                  <td rowspan="2"><span>83</span></td> 
+                </tr> 
+                <tr class="r"> 
+                  <td><span>42"</span></td> 
+                  <td><span> -</span></td> 
+                </tr>
+
+                <tr class="tr-color"> 
+                  <td rowspan="2"><span>2XL</span></td> 
+                  <td><span>44"</span></td> 
+                  <td><span> -</span></td> 
+                  <td rowspan="2"><span>109 - 119</span></td> 
+                  <td rowspan="2"><span>122 - 130</span></td> 
+                  <td rowspan="2"><span>83</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>46"</span></td> 
+                  <td><span> -</span></td> 
+                </tr>
+              </tbody> 
+            </table>
+          </div>
+          <div class='size-chart' id="asian-code-item-one" style="display:none">
+            <table> 
+              <tbody> 
+                <tr class="tr-color tr-title"> 
+                  <td><span>Asian Size</span></td> 
+                  <td><span>Waist (cm)</span></td> 
+                  <td><span>Hip (cm)</span></td> 
+                  <td><span>Inseam (cm)</span></td> 
+                </tr> 
+                <tr class=""> 
+                  <td><span>A/XS</span></td> 
+                  <td><span>69 - 74</span></td> 
+                  <td><span>81 - 86</span></td> 
+                  <td><span>81</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>A/S</span></td> 
+                  <td><span>76 - 81</span></td> 
+                  <td><span>89 - 94</span></td> 
+                  <td><span>82</span></td> 
+                </tr> 
+
+                <tr class=""> 
+                  <td><span>A/M</span></td> 
+                  <td><span>81 - 89</span></td> 
+                  <td><span>94 - 102</span></td> 
+                  <td><span>82</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>A/L</span></td> 
+                  <td><span>89 - 99</span></td> 
+                  <td><span>102 - 112</span></td> 
+                  <td><span>83</span></td> 
+                </tr> 
+
+                <tr class=""> 
+                  <td><span>A/XL</span></td> 
+                  <td><span>99 - 107</span></td> 
+                  <td><span>112 - 122</span></td> 
+                  <td><span>83</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>A2XL</span></td> 
+                  <td><span>109 - 119</span></td> 
+                  <td><span>122 - 130</span></td> 
+                  <td><span>83</span></td> 
+                </tr> 
+              </tbody> 
+            </table>
+          </div>
+        </div>
+        <div class="size-content">
+          <div class="size-type">
+            <div class="size-title">
+              <span>Shorts (5" Inseam)</span>
+            </div>
+            <div class="size-select">
+              <div class="select-type">
+                <div class="select-numb">
+                  <span class="select-show">
+                    <span class="show-content" id="show-content-two">International Size</span>
+                    <img id="down-show-two" src="https://img.adidas.com.hk/resources/images/common/downArrow.png" alt="" srcset="">
+                    <img id="up-show-two" style="display: none" src="https://img.adidas.com.hk/resources/images/common/upArrow.png" alt="" srcset="">
+                  </span>
+                  <div class="size-options" id="size-options-two" style="display: none">
+                    <div class="optionsItem" id="inter-code-two">International Size</div>
+                    <div class="optionsItem" id="asian-code-two">Asian Size</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class='size-chart' id="inter-code-item-two">
+            <table> 
+              <tbody> 
+                <tr class="tr-color tr-title"> 
+                  <td><span>International Size</span></td> 
+                  <td><span>Waist (cm)</span></td> 
+                  <td><span>Hip (cm)</span></td> 
+                  <td><span>Inseam (cm)</span></td> 
+                </tr> 
+                <tr class=""> 
+                  <td><span> XS</span></td> 
+                  <td><span>69 - 74</span></td> 
+                  <td><span>81 - 86</span></td> 
+                  <td><span>12.7</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>S</span></td> 
+                  <td><span>76 - 81</span></td> 
+                  <td><span>89 - 94</span></td> 
+                  <td><span>12.7</span></td> 
+                </tr> 
+
+                <tr class=""> 
+                  <td><span> M</span></td> 
+                  <td><span>81 - 89</span></td> 
+                  <td><span>94 - 102</span></td> 
+                  <td><span>12.7</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>L</span></td> 
+                  <td><span>89 - 99</span></td> 
+                  <td><span>102 - 112</span></td> 
+                  <td><span>12.7</span></td> 
+                </tr>
+
+                <tr class=""> 
+                  <td><span> XL</span></td> 
+                  <td><span>99 - 107</span></td> 
+                  <td><span>112 - 122</span></td> 
+                  <td><span>12.7</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>2XL</span></td> 
+                  <td><span>109 - 119</span></td> 
+                  <td><span>122 - 130</span></td> 
+                  <td><span>12.7</span></td> 
+                </tr>
+              </tbody> 
+            </table>
+          </div>
+          <div class='size-chart' id="asian-code-item-two" style="display:none">
+            <table> 
+              <tbody> 
+                <tr class="tr-color tr-title"> 
+                  <td><span>Asian Size</span></td> 
+                  <td><span>Waist (cm)</span></td> 
+                  <td><span>Hip (cm)</span></td> 
+                  <td><span>Inseam (cm)</span></td> 
+                </tr> 
+
+                <tr class=""> 
+                  <td><span>AXS5"</span></td> 
+                  <td><span>69 - 74</span></td> 
+                  <td><span>81 - 86</span></td> 
+                  <td><span>12.7</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>A/S5"</span></td> 
+                  <td><span>76 - 81</span></td> 
+                  <td><span>89 - 94</span></td> 
+                  <td><span>12.7</span></td> 
+                </tr> 
+
+                <tr class=""> 
+                  <td><span>A/M5"</span></td> 
+                  <td><span>81 - 89</span></td> 
+                  <td><span>94 - 102</span></td> 
+                  <td><span>12.7</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>A/L5"</span></td> 
+                  <td><span>89 - 99</span></td> 
+                  <td><span>102 - 112</span></td> 
+                  <td><span>12.7</span></td> 
+                </tr>
+
+                <tr class=""> 
+                  <td><span>AXL5"</span></td> 
+                  <td><span>99 - 107</span></td> 
+                  <td><span>112 - 122</span></td> 
+                  <td><span>12.7</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>A2XL5</span></td> 
+                  <td><span>109 - 119</span></td> 
+                  <td><span>122 - 130</span></td> 
+                  <td><span>12.7</span></td> 
+                </tr> 
+              </tbody> 
+            </table>
+          </div>
+        </div>
+          <div class="size-content">
+          <div class="size-type">
+            <div class="size-title">
+              <span>Shorts (7" Inseam)</span>
+            </div>
+            <div class="size-select">
+              <div class="select-type">
+                <div class="select-numb">
+                  <span class="select-show">
+                    <span class="show-content" id="show-content-three">International Size</span>
+                    <img id="down-show-three" src="https://img.adidas.com.hk/resources/images/common/downArrow.png" alt="" srcset="">
+                    <img id="up-show-three" style="display: none" src="https://img.adidas.com.hk/resources/images/common/upArrow.png" alt="" srcset="">
+                  </span>
+                  <div class="size-options" id="size-options-three" style="display: none">
+                    <div class="optionsItem" id="inter-code-three">International Size</div>
+                    <div class="optionsItem" id="asian-code-three">Asian Size</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class='size-chart' id="inter-code-item-three">
+            <table> 
+              <tbody> 
+                <tr class="tr-color tr-title"> 
+                  <td><span>International Size</span></td> 
+                  <td><span>Waist (cm)</span></td> 
+                  <td><span>Hip (cm)</span></td> 
+                  <td><span>Inseam (cm)</span></td> 
+                </tr> 
+                <tr class=""> 
+                  <td><span> XS</span></td> 
+                  <td><span>69 - 74</span></td> 
+                  <td><span>81 - 86</span></td> 
+                  <td><span>17.8</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>S</span></td> 
+                  <td><span>76 - 81</span></td> 
+                  <td><span>89 - 94</span></td> 
+                  <td><span>17.8</span></td> 
+                </tr> 
+
+                <tr class=""> 
+                  <td><span> M</span></td> 
+                  <td><span>81 - 89</span></td> 
+                  <td><span>94 - 102</span></td> 
+                  <td><span>17.8</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>L</span></td> 
+                  <td><span>89 - 99</span></td> 
+                  <td><span>102 - 112</span></td> 
+                  <td><span>17.8</span></td> 
+                </tr>
+
+                <tr class=""> 
+                  <td><span> XL</span></td> 
+                  <td><span>99 - 107</span></td> 
+                  <td><span>112 - 122</span></td> 
+                  <td><span>17.8</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>2XL</span></td> 
+                  <td><span>109 - 119</span></td> 
+                  <td><span>122 - 130</span></td> 
+                  <td><span>17.8</span></td> 
+                </tr>
+              </tbody> 
+            </table>
+          </div>
+          <div class='size-chart' id="asian-code-item-three" style="display:none">
+            <table> 
+              <tbody> 
+                <tr class="tr-color tr-title"> 
+                  <td><span>Asian Size</span></td> 
+                  <td><span>Waist (cm)</span></td> 
+                  <td><span>Hip (cm)</span></td> 
+                  <td><span>Inseam (cm)</span></td> 
+                </tr> 
+
+                <tr class=""> 
+                  <td><span>AXS5"</span></td> 
+                  <td><span>69 - 74</span></td> 
+                  <td><span>81 - 86</span></td> 
+                  <td><span>17.8</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>A/S5"</span></td> 
+                  <td><span>76 - 81</span></td> 
+                  <td><span>89 - 94</span></td> 
+                  <td><span>17.8</span></td> 
+                </tr> 
+
+                <tr class=""> 
+                  <td><span>A/M5"</span></td> 
+                  <td><span>81 - 89</span></td> 
+                  <td><span>94 - 102</span></td> 
+                  <td><span>17.8</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>A/L5"</span></td> 
+                  <td><span>89 - 99</span></td> 
+                  <td><span>102 - 112</span></td> 
+                  <td><span>17.8</span></td> 
+                </tr>
+
+                <tr class=""> 
+                  <td><span>AXL5"</span></td> 
+                  <td><span>99 - 107</span></td> 
+                  <td><span>112 - 122</span></td> 
+                  <td><span>17.8</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>A2XL5</span></td> 
+                  <td><span>109 - 119</span></td> 
+                  <td><span>122 - 130</span></td> 
+                  <td><span>17.8</span></td> 
+                </tr> 
+              </tbody> 
+            </table>
+          </div>
+        </div>
+      </div>
+      <div class="size-measure" id="measure">
+        <div class="measure">
+          <div class="img-info">
+            <img class="img-pc" src="https://img.adidas.com.hk/resources/images/size/men.png" alt="" srcset="">
+            <img class="img-mob" src="https://img.adidas.com.hk/resources/images/size/menMeasure.jpg" alt="" srcset="">
+          </div>
+        </div>
+        <div class="tips">
+          如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
