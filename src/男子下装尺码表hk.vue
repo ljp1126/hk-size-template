@@ -1,5 +1,5 @@
 <!--
- * @Description: 
+ * @Description: 男子下装尺码表
  * @Author: lijiapeng
  * @Date: 2022-04-02 14:56:47
  * @LastEditTime: 2022-04-02 17:42:37

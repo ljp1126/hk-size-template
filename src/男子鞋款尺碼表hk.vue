@@ -1,5 +1,5 @@
 <!--
- * @Description: 
+ * @Description: 男子鞋款尺码表
  * @Author: lijiapeng
  * @Date: 2022-04-02 17:42:53
  * @LastEditTime: 2022-04-02 17:42:54
