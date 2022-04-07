@@ -2,7 +2,7 @@
  * @Description: 男子上装尺码表 hk
  * @Author: lijiapeng
  * @Date: 2022-04-02 10:28:39
- * @LastEditTime: 2022-04-02 17:41:58
+ * @LastEditTime: 2022-04-07 15:12:06
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -20,14 +20,12 @@
       <div id="left-type" class="left active">尺碼表</div>
       <div id="right-type" class="right">如何測量</div>
     </div>
-
-
     <div class="table-info">
       <div class="size-info" id="sizeInfo">
         <div class="size-content">
           <div class="size-type">
             <div class="size-title">
-              <span class="text-small">上装</span>
+              <span class="text-small"></span>
             </div>
             <div class="size-select">
               <div class="select-type">
