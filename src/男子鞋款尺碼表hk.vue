@@ -2,7 +2,7 @@
  * @Description: 男子鞋款尺码表
  * @Author: lijiapeng
  * @Date: 2022-04-02 17:42:53
- * @LastEditTime: 2022-04-02 17:42:54
+ * @LastEditTime: 2022-04-14 10:43:21
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -1263,12 +1263,28 @@
       <div class="size-measure" id="measure">
         <div class="measure">
           <div class="img-info">
-            <img class="img-pc" src="https://img.adidas.com.hk/resources/images/size/men.png" alt="" srcset="">
-            <img class="img-mob" src="https://img.adidas.com.hk/resources/images/size/menMeasure.jpg" alt="" srcset="">
+            <div class="instructions">
+              <div class="steps-type">
+                <ul class="steps">
+                  <li class="step">
+                    <span class="step-title">1. </span>
+                    <span class="step-body">踩在一張紙上，腳後跟稍微接觸後面的牆壁。</span>
+                  </li>
+                  <li class="step">
+                    <span class="step-title">2. </span>
+                    <span class="step-body">在紙上標出最長腳趾的末端（您可能需要朋友幫助）並測量從牆壁到標記的距離。</span>
+                  </li>
+                  <li class="step">
+                    <span class="step-title">3. </span>
+                    <span class="step-body">對另一隻腳做同樣的事情，並將測量結果與我們的尺碼表進行比較以獲得合適的尺碼。</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="image-container">
+              <img src="https://img.adidas.com.hk/resources/images/size/measure-shoes.png" alt="" srcset="">
+            </div>
           </div>
-        </div>
-        <div class="tips">
-          如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，
         </div>
       </div>
     </div>

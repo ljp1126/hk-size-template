@@ -2,7 +2,7 @@
  * @Description: 男子鞋款尺码表
  * @Author: lijiapeng
  * @Date: 2022-04-02 17:47:53
- * @LastEditTime: 2022-04-02 17:47:54
+ * @LastEditTime: 2022-04-14 10:46:40
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -1263,12 +1263,28 @@
       <div class="size-measure" id="measure">
         <div class="measure">
           <div class="img-info">
-            <img class="img-pc" src="https://img.adidas.com.hk/resources/images/size/men.png" alt="" srcset="">
-            <img class="img-mob" src="https://img.adidas.com.hk/resources/images/size/menMeasure.jpg" alt="" srcset="">
+            <div class="instructions">
+              <div class="steps-type">
+                <ul class="steps">
+                  <li class="step">
+                    <span class="step-title">1. </span>
+                    <span class="step-body">Step on а piece of paper with your heel slightly touching a wall behind.</span>
+                  </li>
+                  <li class="step">
+                    <span class="step-title">2. </span>
+                    <span class="step-body">Мark the end of your longest toe on the paper (you might need a friend to help you) and measure from the wall to the marking.</span>
+                  </li>
+                  <li class="step">
+                    <span class="step-title">3. </span>
+                    <span class="step-body">Do the same for the other foot and compare measurements with our size chart to get the right size.</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="image-container">
+              <img src="https://img.adidas.com.hk/resources/images/size/measure-shoes.png" alt="" srcset="">
+            </div>
           </div>
-        </div>
-        <div class="tips">
-          如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，
         </div>
       </div>
     </div>
