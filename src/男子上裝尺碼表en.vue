@@ -2,7 +2,7 @@
  * @Description: 男子上装尺码表 en
  * @Author: lijiapeng
  * @Date: 2022-04-02 14:04:56
- * @LastEditTime: 2022-04-02 17:42:03
+ * @LastEditTime: 2022-04-14 12:01:23
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -278,17 +278,52 @@
               </tbody> 
             </table>
           </div>
+          <div class="tips">
+            <div class="tips-title">Fit Tips：</div>
+            <div class="tips-content">Please note that the size chart refers to the measurement of oneself, but not the clothes itself.</div>
+            <div class="tips-content">If you're on the borderline between two sizes, please order the smaller size for a tighter fit or the larger size for a looser fit.</div>
+          </div>
         </div>
       </div>
       <div class="size-measure" id="measure">
         <div class="measure">
           <div class="img-info">
-            <img class="img-pc" src="https://img.adidas.com.hk/resources/images/size/men.png" alt="" srcset="">
-            <img class="img-mob" src="https://img.adidas.com.hk/resources/images/size/menMeasure.jpg" alt="" srcset="">
+            <div class="instructions">
+              <div class="steps-type">
+                <p class="tipinfo">Hold the tape horizontally to measure:</p>
+                <ul class="steps">
+                  <li class="step">
+                    <span class="step-title">1. Chest, </span>
+                    <span class="step-body">around the widest part</span>
+                  </li>
+                  <li class="step">
+                    <span class="step-title">2. Waist, </span>
+                    <span class="step-body">around the narrowest part</span>
+                  </li>
+                  <li class="step">
+                    <span class="step-title">3. Hip, </span>
+                    <span class="step-body">around the widest part, keeping the feet close together</span>
+                  </li>
+                </ul>
+              </div>
+              <div class="steps-type">
+                <p class="tipinfo">Hold the tape vertically to measure:</p>
+                <ul class="steps">
+                  <li class="step">
+                    <span class="step-title">4. Inseam, </span>
+                    <span class="step-body">from the crotch to the floor</span>
+                  </li>
+                  <li class="step">
+                    <span class="step-title">5. Height, </span>
+                    <span class="step-body">from the top of the head to the floor, keeping a straight posture</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="image-container">
+              <img src="https://img.adidas.com.hk/resources/images/size/measure-men.png" alt="" srcset="">
+            </div>
           </div>
-        </div>
-        <div class="tips">
-          如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，
         </div>
       </div>
     </div>
