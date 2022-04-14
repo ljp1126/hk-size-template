@@ -2,7 +2,7 @@
  * @Description: 護腿板通用尺碼表
  * @Author: lijiapeng
  * @Date: 2022-04-08 11:55:19
- * @LastEditTime: 2022-04-08 11:59:28
+ * @LastEditTime: 2022-04-14 14:43:21
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -15,9 +15,9 @@
       </div>
       <div class="text">護腿板通用尺碼表</div>
     </div>
-    <div class="type">
+    <div class="type type-one">
       <div id="left-type" class="left active">尺碼表</div>
-      <div id="right-type" class="right">如何測量</div>
+      <!-- <div id="right-type" class="right">如何測量</div> -->
       <!-- <div id="left-type" class="left active">SIZE & FIT</div> -->
       <!-- <div id="right-type" class="right">How to Measure</div> -->
     </div>
@@ -43,24 +43,8 @@
             </table>
           </div>
         </div>
-        <div class="tips">
-          <div class="tips-title">Fit Tips：</div>
-          <div class="tips-content">Please note that the size chart refers to the measurement of oneself, but not the clothes itself.</div>
-          <div class="tips-content">If you're on the borderline between two sizes, please order the smaller size for a tighter fit or the larger size for a looser fit.</div>
-        </div>
       </div>
       <div class="size-measure" id="measure">
-        <div class="measure">
-          <div class="img-info">
-            <img class="img-pc" src="https://img.adidas.com.hk/resources/images/size/men.png" alt="" srcset="">
-            <img class="img-mob" src="https://img.adidas.com.hk/resources/images/size/menMeasure.jpg" alt="" srcset="">
-          </div>
-        </div>
-        <div class="tips">
-          <div class="tips-content">
-            How to measure detail how to measure detail how to measure detail How to measure detail how to measure detail how to measure detailHow to measure detail how to measure detail how to measure detail How to measure detail how to measure detail how to measure detail
-          </div>
-        </div>
       </div>
     </div>
   </div>
