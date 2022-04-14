@@ -2,7 +2,7 @@
  * @Description: 女子運動內衣尺碼表
  * @Author: lijiapeng
  * @Date: 2022-04-07 16:38:05
- * @LastEditTime: 2022-04-07 16:38:06
+ * @LastEditTime: 2022-04-14 13:25:44
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -15,11 +15,11 @@
       </div>
       <div class="text">Women's Sport Bras Size Chart</div>
     </div>
-    <div class="type">
+    <div class="type type-one">
       <!-- <div id="left-type" class="left active">尺碼表</div> -->
       <!-- <div id="right-type" class="right">如何測量</div> -->
       <div id="left-type" class="left active">SIZE & FIT</div>
-      <div id="right-type" class="right">How to Measure</div>
+      <!-- <div id="right-type" class="right">How to Measure</div> -->
     </div>
     <div class="table-info">
       <div class="size-info" id="sizeInfo">
@@ -258,15 +258,6 @@
         </div>
       </div>
       <div class="size-measure" id="measure">
-        <div class="measure">
-          <div class="img-info">
-            <img class="img-pc" src="https://img.adidas.com.hk/resources/images/size/men.png" alt="" srcset="">
-            <img class="img-mob" src="https://img.adidas.com.hk/resources/images/size/menMeasure.jpg" alt="" srcset="">
-          </div>
-        </div>
-        <div class="tips">
-          如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，如何测试信息，
-        </div>
       </div>
     </div>
   </div>
