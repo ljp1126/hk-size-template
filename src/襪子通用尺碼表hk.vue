@@ -2,7 +2,7 @@
  * @Description: 襪子通用尺碼表
  * @Author: lijiapeng
  * @Date: 2022-04-08 13:20:35
- * @LastEditTime: 2022-04-08 13:24:59
+ * @LastEditTime: 2022-04-14 11:46:13
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -135,22 +135,31 @@
             </table>
           </div>
         </div>
-        <div class="tips">
-          <div class="tips-title">Fit Tips：</div>
-          <div class="tips-content">Please note that the size chart refers to the measurement of oneself, but not the clothes itself.</div>
-          <div class="tips-content">If you're on the borderline between two sizes, please order the smaller size for a tighter fit or the larger size for a looser fit.</div>
-        </div>
       </div>
       <div class="size-measure" id="measure">
         <div class="measure">
           <div class="img-info">
-            <img class="img-pc" src="https://img.adidas.com.hk/resources/images/size/men.png" alt="" srcset="">
-            <img class="img-mob" src="https://img.adidas.com.hk/resources/images/size/menMeasure.jpg" alt="" srcset="">
-          </div>
-        </div>
-        <div class="tips">
-          <div class="tips-content">
-            How to measure detail how to measure detail how to measure detail How to measure detail how to measure detail how to measure detailHow to measure detail how to measure detail how to measure detail How to measure detail how to measure detail how to measure detail
+            <div class="instructions">
+              <div class="steps-type">
+                <ul class="steps">
+                  <li class="step">
+                    <span class="step-title">1. </span>
+                    <span class="step-body">踩在一張紙上，腳後跟稍微接觸後面的牆壁。</span>
+                  </li>
+                  <li class="step">
+                    <span class="step-title">2. </span>
+                    <span class="step-body">在紙上標出最長腳趾的末端（您可能需要朋友幫助）並測量從牆壁到標記的距離。</span>
+                  </li>
+                  <li class="step">
+                    <span class="step-title">3. </span>
+                    <span class="step-body">對另一隻腳做同樣的事情，並將測量結果與我們的尺碼表進行比較以獲得合適的尺碼。</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="image-container">
+              <img src="https://img.adidas.com.hk/resources/images/size/measure-shoes.png" alt="" srcset="">
+            </div>
           </div>
         </div>
       </div>
