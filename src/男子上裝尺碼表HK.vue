@@ -2,7 +2,7 @@
  * @Description: 男子上装尺码表 hk
  * @Author: lijiapeng
  * @Date: 2022-04-02 10:28:39
- * @LastEditTime: 2022-04-14 11:57:56
+ * @LastEditTime: 2022-04-18 12:36:55
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -47,10 +47,10 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td colspan="3"><span>國際尺碼</span></td> 
-                  <td><span>胸圍（厘米)</span></td> 
-                  <td><span>腰圍（厘米)</span></td> 
-                  <td><span>臀圍（厘米）</span></td> 
+                  <td style="width: 38%" colspan="3"><span>國際尺碼</span></td> 
+                  <td><span>胸圍 (cm)</span></td> 
+                  <td><span>腰圍 (cm)</span></td> 
+                  <td><span>臀圍 (cm)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>-</span></td> 
@@ -160,10 +160,10 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td colspan="2"><span>亚洲尺碼</span></td> 
-                  <td><span>胸圍（厘米)</span></td> 
-                  <td><span>腰圍（厘米)</span></td> 
-                  <td><span>臀圍（厘米）</span></td> 
+                  <td style="width: 38%" colspan="2"><span>亚洲尺碼</span></td> 
+                  <td><span>胸圍 (cm)</span></td> 
+                  <td><span>腰圍 (cm)</span></td> 
+                  <td><span>臀圍 (cm)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>-</span></td> 

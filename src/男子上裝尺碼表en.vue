@@ -2,12 +2,13 @@
  * @Description: 男子上装尺码表 en
  * @Author: lijiapeng
  * @Date: 2022-04-02 14:04:56
- * @LastEditTime: 2022-04-14 12:01:23
+ * @LastEditTime: 2022-04-18 12:39:27
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
 
 <template>
+
   <div class="content">
     <div class="top-title">
       <div class="sizeClose">
@@ -19,8 +20,6 @@
       <div id="left-type" class="left active">SIZE & FIT</div>
       <div id="right-type" class="right">How to Measure</div>
     </div>
-
-
     <div class="table-info">
       <div class="size-info" id="sizeInfo">
         <div class="size-content">
@@ -48,7 +47,7 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td colspan="3"><span>International Size</span></td> 
+                  <td style="width: 38%" colspan="3"><span>International Size</span></td> 
                   <td><span>Chest (cm)</span></td> 
                   <td><span>Waist (cm)</span></td> 
                   <td><span>Hip (cm)</span></td> 
@@ -161,7 +160,7 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td colspan="2"><span>Asian Size</span></td> 
+                  <td style="width: 38%" colspan="2"><span>Asian Size</span></td> 
                   <td><span>Chest (cm)</span></td> 
                   <td><span>Waist (cm)</span></td> 
                   <td><span>Hip (cm)</span></td> 
@@ -328,4 +327,5 @@
       </div>
     </div>
   </div>
+
 </template>
