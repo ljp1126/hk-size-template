@@ -2,12 +2,13 @@
  * @Description: 女子上装尺码表
  * @Author: lijiapeng
  * @Date: 2022-04-07 15:58:16
- * @LastEditTime: 2022-04-14 12:30:20
+ * @LastEditTime: 2022-04-18 13:05:07
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
 
 <template>
+
   <div class="content">
     <div class="top-title">
       <div class="sizeClose">
@@ -49,7 +50,7 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td colspan="3"><span>International Size</span></td> 
+                  <td style="width: 40%" colspan="3"><span>International Size</span></td> 
                   <td><span>Chest (cm)</span></td> 
                   <td><span>Waist (cm)</span></td> 
                   <td><span>Hip (cm)</span></td> 
@@ -145,7 +146,7 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td colspan="2"><span>Asian Size</span></td> 
+                  <td style="width: 30%" colspan="2"><span>Asian Size</span></td> 
                   <td><span>Chest (cm)</span></td> 
                   <td><span>Waist (cm)</span></td> 
                   <td><span>Hip (cm)</span></td> 
@@ -327,4 +328,5 @@
       </div>
     </div>
   </div>
+
 </template>
