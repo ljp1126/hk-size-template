@@ -2,12 +2,13 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-07 17:07:45
- * @LastEditTime: 2022-04-14 12:38:51
+ * @LastEditTime: 2022-04-18 13:13:35
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
 
 <template>
+
   <div class="content">
     <div class="top-title">
       <div class="sizeClose">
@@ -48,7 +49,7 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td colspan="3"><span>International Size</span></td> 
+                  <td style="width: 40%" colspan="3"><span>International Size</span></td> 
                   <td><span>Waist (cm)</span></td> 
                   <td><span>Hip (cm)</span></td> 
                   <td><span>Inseam (cm)</span></td> 
@@ -241,4 +242,5 @@
       </div>
     </div>
   </div>
+
 </template>
