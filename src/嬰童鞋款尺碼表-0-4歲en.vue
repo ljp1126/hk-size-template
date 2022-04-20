@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-08 10:41:19
- * @LastEditTime: 2022-04-14 11:37:23
+ * @LastEditTime: 2022-04-20 12:11:13
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -50,84 +50,84 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td><span>UK</span></td> 
-                  <td><span>EU</span></td> 
-                  <td><span>Heel-toe</span></td> 
+                  <td style="width: 33%"><span>UK</span></td> 
+                  <td style="width: 33%"><span>EU</span></td> 
+                  <td style="width: 34%"><span>Heel-toe (cm)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>0K</span></td> 
                   <td><span>16</span></td> 
-                  <td><span>8.1 cm</span></td> 
+                  <td><span>8.1</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>1K</span></td> 
                   <td><span>17</span></td> 
-                  <td><span>8.9 cm</span></td> 
+                  <td><span>8.9</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>2K</span></td> 
                   <td><span>18</span></td> 
-                  <td><span>9.9 cm</span></td> 
+                  <td><span>9.9</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>3K</span></td> 
                   <td><span>19</span></td> 
-                  <td><span>10.7 cm</span></td> 
+                  <td><span>10.7</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>4K</span></td> 
                   <td><span>20</span></td> 
-                  <td><span>11.4 cm</span></td> 
+                  <td><span>11.4</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>5K</span></td> 
                   <td><span>21</span></td> 
-                  <td><span>12.2 cm</span></td> 
+                  <td><span>12.2</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>5.5K</span></td> 
                   <td><span>22</span></td> 
-                  <td><span>12.7 cm</span></td> 
+                  <td><span>12.7</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>6K</span></td> 
                   <td><span>23</span></td> 
-                  <td><span>13.2 cm</span></td> 
+                  <td><span>13.2</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>6.5K</span></td> 
                   <td><span>23.5</span></td> 
-                  <td><span>13.7 cm</span></td> 
+                  <td><span>13.7</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>7K</span></td> 
                   <td><span>24</span></td> 
-                  <td><span>14.0 cm</span></td> 
+                  <td><span>14.0</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>7.5K</span></td> 
                   <td><span>25</span></td> 
-                  <td><span>14.5 cm</span></td> 
+                  <td><span>14.5</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>8K</span></td> 
                   <td><span>25.5</span></td> 
-                  <td><span>15.0 cm</span></td> 
+                  <td><span>15.0</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>8.5K</span></td> 
                   <td><span>26</span></td> 
-                  <td><span>15.2 cm</span></td> 
+                  <td><span>15.2</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>9K</span></td> 
                   <td><span>26.5</span></td> 
-                  <td><span>15.7 cm</span></td> 
+                  <td><span>15.7</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>9.5K</span></td> 
                   <td><span>27</span></td> 
-                  <td><span>16.0 cm</span></td> 
+                  <td><span>16.0</span></td> 
                 </tr> 
               </tbody> 
             </table>
@@ -136,84 +136,84 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td><span>UK</span></td> 
-                  <td><span>US</span></td> 
-                  <td><span>Heel-toe</span></td> 
+                  <td style="width: 33%"><span>UK</span></td> 
+                  <td style="width: 33%"><span>US</span></td> 
+                  <td style="width: 34%"><span>Heel-toe (cm)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>0K</span></td> 
                   <td><span>1K</span></td> 
-                  <td><span>8.1 cm</span></td> 
+                  <td><span>8.1</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>1K</span></td> 
                   <td><span>2K</span></td> 
-                  <td><span>8.9 cm</span></td> 
+                  <td><span>8.9</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>2K</span></td> 
                   <td><span>3K</span></td> 
-                  <td><span>9.9 cm</span></td> 
+                  <td><span>9.9</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>3K</span></td> 
                   <td><span>4K</span></td> 
-                  <td><span>10.7 cm</span></td> 
+                  <td><span>10.7</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>4K</span></td> 
                   <td><span>5K</span></td> 
-                  <td><span>11.4 cm</span></td> 
+                  <td><span>11.4</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>5K</span></td> 
                   <td><span>5.5K</span></td> 
-                  <td><span>12.2 cm</span></td> 
+                  <td><span>12.2</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>5.5K</span></td> 
                   <td><span>6K</span></td> 
-                  <td><span>12.7 cm</span></td> 
+                  <td><span>12.7</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>6K</span></td> 
                   <td><span>6.5K</span></td> 
-                  <td><span>13.2 cm</span></td> 
+                  <td><span>13.2</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>6.5K</span></td> 
                   <td><span>7K</span></td> 
-                  <td><span>13.7 cm</span></td> 
+                  <td><span>13.7</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>7K</span></td> 
                   <td><span>7.5K</span></td> 
-                  <td><span>14.0 cm</span></td> 
+                  <td><span>14.0</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>7.5K</span></td> 
                   <td><span>8K</span></td> 
-                  <td><span>14.5 cm</span></td> 
+                  <td><span>14.5</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>8K</span></td> 
                   <td><span>8.5K</span></td> 
-                  <td><span>15.0 cm</span></td> 
+                  <td><span>15.0</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>8.5K</span></td> 
                   <td><span>9K</span></td> 
-                  <td><span>15.2 cm</span></td> 
+                  <td><span>15.2</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>9K</span></td> 
                   <td><span>9.5K</span></td> 
-                  <td><span>15.7 cm</span></td> 
+                  <td><span>15.7</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>9.5K</span></td> 
                   <td><span>10K</span></td> 
-                  <td><span>16.0 cm</span></td> 
+                  <td><span>16.0</span></td> 
                 </tr> 
               </tbody>
             </table>
@@ -222,84 +222,84 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td><span>UK</span></td> 
-                  <td><span>CN</span></td> 
-                  <td><span>Heel-toe</span></td> 
+                  <td style="width: 33%"><span>UK</span></td> 
+                  <td style="width: 33%"><span>CN</span></td> 
+                  <td style="width: 34%"><span>Heel-toe (cm)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>0K</span></td> 
                   <td><span>80</span></td> 
-                  <td><span>8.1 cm</span></td> 
+                  <td><span>8.1</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>1K</span></td> 
                   <td><span>90</span></td> 
-                  <td><span>8.9 cm</span></td> 
+                  <td><span>8.9</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>2K</span></td> 
                   <td><span>100</span></td> 
-                  <td><span>9.9 cm</span></td> 
+                  <td><span>9.9</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>3K</span></td> 
                   <td><span>105</span></td> 
-                  <td><span>10.7 cm</span></td> 
+                  <td><span>10.7</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>4K</span></td> 
                   <td><span>115</span></td> 
-                  <td><span>11.4 cm</span></td> 
+                  <td><span>11.4</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>5K</span></td> 
                   <td><span>120</span></td> 
-                  <td><span>12.2 cm</span></td> 
+                  <td><span>12.2</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>5.5K</span></td> 
                   <td><span>125</span></td> 
-                  <td><span>12.7 cm</span></td> 
+                  <td><span>12.7</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>6K</span></td> 
                   <td><span>130</span></td> 
-                  <td><span>13.2 cm</span></td> 
+                  <td><span>13.2</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>6.5K</span></td> 
                   <td><span>135</span></td> 
-                  <td><span>13.7 cm</span></td> 
+                  <td><span>13.7</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>7K</span></td> 
                   <td><span>140</span></td> 
-                  <td><span>14.0 cm</span></td> 
+                  <td><span>14.0</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>7.5K</span></td> 
                   <td><span>145</span></td> 
-                  <td><span>14.5 cm</span></td> 
+                  <td><span>14.5</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>8K</span></td> 
                   <td><span>150</span></td> 
-                  <td><span>15.0 cm</span></td> 
+                  <td><span>15.0</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>8.5K</span></td> 
                   <td><span>150</span></td> 
-                  <td><span>15.2 cm</span></td> 
+                  <td><span>15.2</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>9K</span></td> 
                   <td><span>155</span></td> 
-                  <td><span>15.7 cm</span></td> 
+                  <td><span>15.7</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>9.5K</span></td> 
                   <td><span>160</span></td> 
-                  <td><span>16.0 cm</span></td> 
+                  <td><span>16.0</span></td> 
                 </tr> 
               </tbody>
             </table>
@@ -332,9 +332,9 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td><span>UK</span></td> 
-                  <td><span>EU</span></td> 
-                  <td><span>Heel-toe</span></td> 
+                  <td style="width: 33%"><span>UK</span></td> 
+                  <td style="width: 33%"><span>EU</span></td> 
+                  <td style="width: 34%"><span>Heel-toe (inch)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>0K</span></td> 
@@ -418,9 +418,9 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td><span>UK</span></td> 
-                  <td><span>US</span></td> 
-                  <td><span>Heel-toe</span></td> 
+                  <td style="width: 33%"><span>UK</span></td> 
+                  <td style="width: 33%"><span>US</span></td> 
+                  <td style="width: 34%"><span>Heel-toe (inch)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>0K</span></td> 
@@ -504,9 +504,9 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td><span>UK</span></td> 
-                  <td><span>CN</span></td> 
-                  <td><span>Heel-toe</span></td> 
+                  <td style="width: 33%"><span>UK</span></td> 
+                  <td style="width: 33%"><span>CN</span></td> 
+                  <td style="width: 34%"><span>Heel-toe (inch)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>0K</span></td> 
