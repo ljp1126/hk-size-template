@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-08 12:56:50
- * @LastEditTime: 2022-04-14 14:55:57
+ * @LastEditTime: 2022-04-20 18:09:51
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -31,16 +31,6 @@
                   <td><span>尺碼</span></td> 
                   <td><span>頭圍(英寸)</span></td> 
                   <td><span>頭圍(厘米)</span></td> 
-                </tr> 
-                <tr class=""> 
-                  <td><span>嬰兒</span></td> 
-                  <td><span>16.5"</span></td> 
-                  <td><span>42</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>幼童</span></td> 
-                  <td><span>18.9" - 19.7"</span></td> 
-                  <td><span>42 - 50</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>小童(OSFC)</span></td> 

@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-08 12:56:55
- * @LastEditTime: 2022-04-20 17:02:57
+ * @LastEditTime: 2022-04-20 18:10:01
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -31,16 +31,6 @@
                   <td><span>Size</span></td> 
                   <td><span>Length (Inch)</span></td> 
                   <td><span>Length (cm)</span></td> 
-                </tr> 
-                <tr class=""> 
-                  <td><span>Infants</span></td> 
-                  <td><span>16.5"</span></td> 
-                  <td><span>42</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>Toddlers</span></td> 
-                  <td><span>18.9" - 19.7"</span></td> 
-                  <td><span>42 - 50</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>Children (OSFC)</span></td> 
