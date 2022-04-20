@@ -2,7 +2,7 @@
  * @Description: 女子上装尺码表
  * @Author: lijiapeng
  * @Date: 2022-04-07 15:58:11
- * @LastEditTime: 2022-04-18 13:02:41
+ * @LastEditTime: 2022-04-20 10:07:09
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -33,13 +33,13 @@
               <div class="select-type">
                 <div class="select-numb">
                   <span class="select-show">
-                    <span class="show-content" id="show-content-one">国际码</span>
+                    <span class="show-content" id="show-content-one">國際碼</span>
                     <img id="down-show-one" src="https://img.adidas.com.hk/resources/images/common/downArrow.png" alt="" srcset="">
                     <img id="up-show-one" style="display: none" src="https://img.adidas.com.hk/resources/images/common/upArrow.png" alt="" srcset="">
                   </span>
                   <div class="size-options" id="size-options-one" style="display: none">
-                    <div class="optionsItem" id="inter-code-one">国际码</div>
-                    <div class="optionsItem" id="asian-code-one">亚洲码</div>
+                    <div class="optionsItem" id="inter-code-one">國際碼</div>
+                    <div class="optionsItem" id="asian-code-one">亞洲碼</div>
                     <div class="optionsItem" id="japan-code-one">日本碼</div>
                   </div>
                 </div>
@@ -50,10 +50,10 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td style="width: 40%" colspan="3"><span>國際碼</span></td> 
-                  <td><span>胸圍（cm)</span></td> 
-                  <td><span>腰圍（cm)</span></td> 
-                  <td><span>臀圍（cm）</span></td> 
+                  <td style="width: 38%" colspan="3"><span>國際碼</span></td> 
+                  <td><span>胸圍 (厘米)</span></td> 
+                  <td><span>腰圍 (厘米)</span></td> 
+                  <td><span>臀圍 (厘米)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td rowspan="2"><span> 2XS</span></td> 
@@ -146,10 +146,10 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td style="width: 35%" colspan="2"><span>亚洲碼</span></td> 
-                  <td><span>胸圍（cm)</span></td> 
-                  <td><span>腰圍（cm)</span></td> 
-                  <td><span>臀圍（cm）</span></td> 
+                  <td style="width: 35%" colspan="2"><span>亞洲碼</span></td> 
+                  <td><span>胸圍 (厘米)</span></td> 
+                  <td><span>腰圍 (厘米)</span></td> 
+                  <td><span>臀圍 (厘米)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td rowspan="2"><span>A/XS</span></td> 
@@ -229,8 +229,8 @@
               <tbody> 
                 <tr class="tr-color tr-title"> 
                   <td><span>日本碼 (J)</span></td> 
-                  <td><span>胸圍（cm)</span></td> 
-                  <td><span>腰圍（cm)</span></td> 
+                  <td><span>胸圍 (厘米)</span></td> 
+                  <td><span>腰圍 (厘米)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>J/2XS</span></td> 

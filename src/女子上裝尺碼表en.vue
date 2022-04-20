@@ -2,7 +2,7 @@
  * @Description: 女子上装尺码表
  * @Author: lijiapeng
  * @Date: 2022-04-07 15:58:16
- * @LastEditTime: 2022-04-18 13:05:07
+ * @LastEditTime: 2022-04-20 10:08:22
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -50,7 +50,7 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td style="width: 40%" colspan="3"><span>International Size</span></td> 
+                  <td style="width: 38%" colspan="3"><span>International Size</span></td> 
                   <td><span>Chest (cm)</span></td> 
                   <td><span>Waist (cm)</span></td> 
                   <td><span>Hip (cm)</span></td> 
