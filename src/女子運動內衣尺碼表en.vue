@@ -19,7 +19,7 @@
       <!-- <div id="left-type" class="left active">尺碼表</div> -->
       <!-- <div id="right-type" class="right">如何測量</div> -->
       <div id="left-type" class="left active">SIZE & FIT</div>
-      <!-- <div id="right-type" class="right">How to Measure</div> -->
+      <!-- <div id="right-type" class="right">HOW TO MEASURE</div> -->
     </div>
     <div class="table-info">
       <div class="size-info" id="sizeInfo">
@@ -49,7 +49,7 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td style="border-right: 1px solid #fff;"><span>BAND SIZE</span></td> 
+                  <td style="border-right: 1px solid #fff;"><span>BRA SIZE</span></td> 
                   <td style="border-bottom: 1px solid #fff;" colspan="5"><span>Cup Size</span></td> 
                 </tr> 
                 <tr class="tr-color tr-title"> 

@@ -2,7 +2,7 @@
  * @Description: 男子上装尺码表 en
  * @Author: lijiapeng
  * @Date: 2022-04-02 14:04:56
- * @LastEditTime: 2022-04-20 09:49:02
+ * @LastEditTime: 2022-04-20 17:09:45
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -18,7 +18,7 @@
     </div>
     <div class="type">
       <div id="left-type" class="left active">SIZE & FIT</div>
-      <div id="right-type" class="right">How to Measure</div>
+      <div id="right-type" class="right">HOW TO MEASURE</div>
     </div>
     <div class="table-info">
       <div class="size-info" id="sizeInfo">

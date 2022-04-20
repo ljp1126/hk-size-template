@@ -309,7 +309,7 @@
                 <p class="tipinfo">垂直握住捲尺進行測量：</p>
                 <ul class="steps">
                   <li class="step">
-                    <span class="step-title">4. 內接縫，</span>
+                    <span class="step-title">4. 內長，</span>
                     <span class="step-body">從胯部到地板</span>
                   </li>
                   <li class="step">

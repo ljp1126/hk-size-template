@@ -19,7 +19,7 @@
       <div id="left-type" class="left active">尺碼表</div>
       <!-- <div id="right-type" class="right">如何測量</div> -->
       <!-- <div id="left-type" class="left active">SIZE & FIT</div> -->
-      <!-- <div id="right-type" class="right">How to Measure</div> -->
+      <!-- <div id="right-type" class="right">HOW TO MEASURE</div> -->
     </div>
     <div class="table-info">
       <div class="size-info" id="sizeInfo">
@@ -28,9 +28,9 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td><span>Size</span></td> 
-                  <td><span>Circumference (Inch)</span></td> 
-                  <td><span>Circumference (cm)</span></td> 
+                  <td><span>尺碼</span></td> 
+                  <td><span>圓周(英寸)</span></td> 
+                  <td><span>圓周(厘米)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>1(Mini)</span></td> 

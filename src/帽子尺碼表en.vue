@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-08 12:56:55
- * @LastEditTime: 2022-04-14 14:56:05
+ * @LastEditTime: 2022-04-20 17:02:57
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -19,7 +19,7 @@
       <!-- <div id="left-type" class="left active">尺碼表</div> -->
       <!-- <div id="right-type" class="right">如何測量</div> -->
       <div id="left-type" class="left active">SIZE & FIT</div>
-      <!-- <div id="right-type" class="right">How to Measure</div> -->
+      <!-- <div id="right-type" class="right">HOW TO MEASURE</div> -->
     </div>
     <div class="table-info">
       <div class="size-info" id="sizeInfo">
@@ -29,8 +29,8 @@
               <tbody> 
                 <tr class="tr-color tr-title"> 
                   <td><span>Size</span></td> 
-                  <td><span>Width (Inch)</span></td> 
-                  <td><span>Width (cm)</span></td> 
+                  <td><span>Length (Inch)</span></td> 
+                  <td><span>Length (cm)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>Infants</span></td> 
@@ -43,29 +43,24 @@
                   <td><span>42 - 50</span></td> 
                 </tr> 
                 <tr class=""> 
-                  <td><span>Children</span></td> 
+                  <td><span>Children (OSFC)</span></td> 
                   <td><span>19.7" - 20.5"</span></td> 
                   <td><span>50 - 52</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
-                  <td><span>Youth</span></td> 
+                  <td><span>Youth (OSFY)</span></td> 
                   <td><span>20.5" - 21.3"</span></td> 
                   <td><span>52 - 54</span></td> 
                 </tr> 
                 <tr class=""> 
-                  <td><span>Women (S/M)</span></td> 
+                  <td><span>Women (OSFW)</span></td> 
                   <td><span>21.3" - 22.0"</span></td> 
                   <td><span>54 - 56</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
-                  <td><span>Men (M/L)</span></td> 
+                  <td><span>Men(OSFM)</span></td> 
                   <td><span>22.0" - 22.8"</span></td> 
                   <td><span>56 - 58</span></td> 
-                </tr> 
-                <tr class=""> 
-                  <td><span>Large (L/XL)</span></td> 
-                  <td><span>22.8" - 23.6"</span></td> 
-                  <td><span>58 - 60</span></td> 
                 </tr> 
               </tbody> 
             </table>
