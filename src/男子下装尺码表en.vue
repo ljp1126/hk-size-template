@@ -2,7 +2,7 @@
  * @Description: 男子下装尺码表en
  * @Author: lijiapeng
  * @Date: 2022-04-02 14:56:18
- * @LastEditTime: 2022-04-18 12:51:59
+ * @LastEditTime: 2022-04-20 09:57:27
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -22,8 +22,6 @@
       <div id="left-type" class="left active">SIZE & FIT</div>
       <div id="right-type" class="right">How to Measure</div>
     </div>
-
-
     <div class="table-info">
       <div class="size-info" id="sizeInfo">
         <div class="size-content">
@@ -51,7 +49,7 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td style="width: 40%" colspan="3"><span>International Size</span></td> 
+                  <td style="width: 38%" colspan="3"><span>International Size</span></td> 
                   <td><span>Waist (cm)</span></td> 
                   <td><span>Hip (cm)</span></td> 
                   <td><span>Inseam (cm)</span></td> 

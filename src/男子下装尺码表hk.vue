@@ -2,7 +2,7 @@
  * @Description: 男子下装尺码表
  * @Author: lijiapeng
  * @Date: 2022-04-02 14:56:47
- * @LastEditTime: 2022-04-18 12:49:32
+ * @LastEditTime: 2022-04-20 09:57:45
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -22,8 +22,6 @@
       <!-- <div id="left-type" class="left active">SIZE & FIT</div> -->
       <!-- <div id="right-type" class="right">How to Measure</div> -->
     </div>
-
-
     <div class="table-info">
       <div class="size-info" id="sizeInfo">
         <div class="size-content">
@@ -51,10 +49,10 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td style="width: 40%" colspan="3"><span>國際碼</span></td> 
-                  <td><span>腰圍 (cm)</span></td> 
-                  <td><span>臀圍 (cm)</span></td> 
-                  <td><span>內長 (cm)</span></td> 
+                  <td style="width: 38%" colspan="3"><span>國際碼</span></td> 
+                  <td><span>腰圍 (厘米)</span></td> 
+                  <td><span>臀圍 (厘米)</span></td> 
+                  <td><span>內長 (厘米)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td rowspan="2"><span> XS</span></td> 
@@ -148,9 +146,9 @@
               <tbody> 
                 <tr class="tr-color tr-title"> 
                   <td><span>亞洲碼</span></td> 
-                  <td><span>腰圍 (cm)</span></td> 
-                  <td><span>臀圍 (cm)</span></td> 
-                  <td><span>內長 (cm)</span></td> 
+                  <td><span>腰圍 (厘米)</span></td> 
+                  <td><span>臀圍 (厘米)</span></td> 
+                  <td><span>內長 (厘米)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>A/XS</span></td> 
@@ -220,9 +218,9 @@
               <tbody> 
                 <tr class="tr-color tr-title"> 
                   <td><span>國際碼</span></td> 
-                  <td><span>腰圍 (cm)</span></td> 
-                  <td><span>臀圍 (cm)</span></td> 
-                  <td><span>內長 (cm)</span></td> 
+                  <td><span>腰圍 (厘米)</span></td> 
+                  <td><span>臀圍 (厘米)</span></td> 
+                  <td><span>內長 (厘米)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span> XS</span></td> 
@@ -270,9 +268,9 @@
               <tbody> 
                 <tr class="tr-color tr-title"> 
                   <td><span>亞洲碼</span></td> 
-                  <td><span>腰圍 (cm)</span></td> 
-                  <td><span>臀圍 (cm)</span></td> 
-                  <td><span>內長 (cm)</span></td> 
+                  <td><span>腰圍 (厘米)</span></td> 
+                  <td><span>臀圍 (厘米)</span></td> 
+                  <td><span>內長 (厘米)</span></td> 
                 </tr> 
 
                 <tr class=""> 
@@ -343,9 +341,9 @@
               <tbody> 
                 <tr class="tr-color tr-title"> 
                   <td><span>國際碼</span></td> 
-                  <td><span>腰圍 (cm)</span></td> 
-                  <td><span>臀圍 (cm)</span></td> 
-                  <td><span>內長 (cm)</span></td> 
+                  <td><span>腰圍 (厘米)</span></td> 
+                  <td><span>臀圍 (厘米)</span></td> 
+                  <td><span>內長 (厘米)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span> XS</span></td> 
@@ -393,9 +391,9 @@
               <tbody> 
                 <tr class="tr-color tr-title"> 
                   <td><span>亞洲碼(A)</span></td> 
-                  <td><span>腰圍 (cm)</span></td> 
-                  <td><span>臀圍 (cm)</span></td> 
-                  <td><span>內長 (cm)</span></td> 
+                  <td><span>腰圍 (厘米)</span></td> 
+                  <td><span>臀圍 (厘米)</span></td> 
+                  <td><span>內長 (厘米)</span></td> 
                 </tr> 
 
                 <tr class=""> 
