@@ -2,7 +2,7 @@
  * @Description: 女子上装尺码表
  * @Author: lijiapeng
  * @Date: 2022-04-07 15:58:16
- * @LastEditTime: 2022-04-20 10:08:22
+ * @LastEditTime: 2022-04-20 10:31:27
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -228,7 +228,7 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td><span>Japanese Size (J)</span></td> 
+                  <td style="width: 34%"><span>Japanese Size (J)</span></td> 
                   <td><span>Chest (cm)</span></td> 
                   <td><span>Waist (cm)</span></td> 
                 </tr> 
