@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-07 17:07:45
- * @LastEditTime: 2022-04-20 10:13:18
+ * @LastEditTime: 2022-04-20 10:19:55
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -140,7 +140,7 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td><span>Japanese Size</span></td> 
+                  <td style="width: 34%"><span>Japanese Size</span></td> 
                   <td><span>Chest (cm)</span></td> 
                   <td><span>Waist (cm)</span></td> 
                 </tr> 
