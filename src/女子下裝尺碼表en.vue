@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-07 17:07:45
- * @LastEditTime: 2022-04-18 13:13:35
+ * @LastEditTime: 2022-04-20 10:13:18
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -49,7 +49,7 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td style="width: 40%" colspan="3"><span>International Size</span></td> 
+                  <td style="width: 38%" colspan="3"><span>International Size</span></td> 
                   <td><span>Waist (cm)</span></td> 
                   <td><span>Hip (cm)</span></td> 
                   <td><span>Inseam (cm)</span></td> 

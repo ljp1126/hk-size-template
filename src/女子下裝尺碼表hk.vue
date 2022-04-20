@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-07 17:07:37
- * @LastEditTime: 2022-04-18 13:12:14
+ * @LastEditTime: 2022-04-20 10:13:13
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -49,10 +49,10 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td style="width: 40%" colspan="3"><span>國際碼</span></td> 
-                  <td><span>腰圍 (cm)</span></td> 
-                  <td><span>臀圍 (cm)</span></td> 
-                  <td><span>內長 (cm)</span></td> 
+                  <td style="width: 38%" colspan="3"><span>國際碼</span></td> 
+                  <td><span>腰圍 (厘米)</span></td> 
+                  <td><span>臀圍 (厘米)</span></td> 
+                  <td><span>內長 (厘米)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>XXS</span></td> 
@@ -141,8 +141,8 @@
               <tbody> 
                 <tr class="tr-color tr-title"> 
                   <td><span>日本碼 (J)</span></td> 
-                  <td><span>胸圍 (cm)</span></td> 
-                  <td><span>腰圍 (cm)</span></td> 
+                  <td><span>胸圍 (厘米)</span></td> 
+                  <td><span>腰圍 (厘米)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>J/2XS</span></td> 
