@@ -2,7 +2,7 @@
  * @Description: 小童服裝尺碼表-4-8歲
  * @Author: lijiapeng
  * @Date: 2022-04-08 10:01:42
- * @LastEditTime: 2022-04-14 13:05:10
+ * @LastEditTime: 2022-04-20 09:44:22
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -43,7 +43,7 @@
                 </tr> 
                 <tr class=""> 
                   <td><span>92</span></td> 
-                  <td><span>1~2years</span></td> 
+                  <td><span>1~2 歲</span></td> 
                   <td><span>86 - 91</span></td> 
                   <td><span>52 - 53</span></td> 
                   <td><span>51 - 52</span></td> 
@@ -52,7 +52,7 @@
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>98</span></td> 
-                  <td><span>2~3 years</span></td> 
+                  <td><span>2~3 歲</span></td> 
                   <td><span>94 - 99</span></td> 
                   <td><span>53 - 55</span></td> 
                   <td><span>52 - 53</span></td> 
@@ -61,7 +61,7 @@
                 </tr> 
                 <tr class=""> 
                   <td><span>104</span></td> 
-                  <td><span>3~4 years</span></td> 
+                  <td><span>3~4 歲</span></td> 
                   <td><span>102 - 104</span></td> 
                   <td><span>55 - 56</span></td> 
                   <td><span>53 - 55</span></td> 
@@ -70,7 +70,7 @@
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>110</span></td> 
-                  <td><span>4~5 years</span></td> 
+                  <td><span>4~5 歲</span></td> 
                   <td><span>107 - 109</span></td> 
                   <td><span>56 - 58</span></td> 
                   <td><span>55</span></td> 
@@ -79,7 +79,7 @@
                 </tr> 
                 <tr class=""> 
                   <td><span>116</span></td> 
-                  <td><span>5~6 years</span></td> 
+                  <td><span>5~6 歲</span></td> 
                   <td><span>112 - 117</span></td> 
                   <td><span>58 - 61</span></td> 
                   <td><span>56</span></td> 
@@ -88,7 +88,7 @@
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>122</span></td> 
-                  <td><span>6~7 years</span></td> 
+                  <td><span>6~7 歲</span></td> 
                   <td><span>119 - 122</span></td> 
                   <td><span>61 - 64</span></td> 
                   <td><span>57</span></td> 
@@ -97,7 +97,7 @@
                 </tr> 
                 <tr class=""> 
                   <td><span>128</span></td> 
-                  <td><span>7~8 years</span></td> 
+                  <td><span>7~8 歲</span></td> 
                   <td><span>124 - 127</span></td> 
                   <td><span>64</span></td> 
                   <td><span>57 - 58</span></td> 
@@ -106,7 +106,7 @@
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>134</span></td> 
-                  <td><span>8~9 years</span></td> 
+                  <td><span>8~9 歲</span></td> 
                   <td><span>130 - 135</span></td> 
                   <td><span>65 - 67</span></td> 
                   <td><span>60 - 61</span></td> 
@@ -115,7 +115,7 @@
                 </tr> 
                 <tr class=""> 
                   <td><span>140</span></td> 
-                  <td><span>9~10 years</span></td> 
+                  <td><span>9~10 歲</span></td> 
                   <td><span>137 - 140</span></td> 
                   <td><span>69 - 71</span></td> 
                   <td><span>62 - 64</span></td> 

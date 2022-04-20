@@ -2,7 +2,7 @@
  * @Description: 嬰童服裝尺碼表（0-4歲）hk
  * @Author: lijiapeng
  * @Date: 2022-04-08 10:17:26
- * @LastEditTime: 2022-04-14 13:12:52
+ * @LastEditTime: 2022-04-20 09:43:57
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -97,7 +97,7 @@
                 </tr> 
                   <tr class=""> 
                   <td><span>92</span></td> 
-                  <td><span>1~2 years</span></td> 
+                  <td><span>1~2 歲</span></td> 
                   <td><span>86 - 91</span></td> 
                   <td><span>52 - 53</span></td> 
                   <td><span>51 - 52</span></td> 
@@ -106,7 +106,7 @@
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>98</span></td> 
-                  <td><span>2~3 years</span></td> 
+                  <td><span>2~3 歲</span></td> 
                   <td><span>94 - 99</span></td> 
                   <td><span>53 - 55</span></td> 
                   <td><span>52 - 53</span></td> 
@@ -115,7 +115,7 @@
                 </tr> 
                   <tr class=""> 
                   <td><span>104</span></td> 
-                  <td><span>3~4 years</span></td> 
+                  <td><span>3~4 歲</span></td> 
                   <td><span>102 - 104</span></td> 
                   <td><span>55 - 56</span></td> 
                   <td><span>53 - 55</span></td> 

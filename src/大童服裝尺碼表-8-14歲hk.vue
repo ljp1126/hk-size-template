@@ -2,7 +2,7 @@
  * @Description: 大童服裝尺碼表-8-14歲
  * @Author: lijiapeng
  * @Date: 2022-04-07 17:35:53
- * @LastEditTime: 2022-04-14 12:51:27
+ * @LastEditTime: 2022-04-20 09:45:00
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -43,7 +43,7 @@
                 </tr> 
                 <tr class=""> 
                   <td><span>116</span></td> 
-                  <td><span>5~6 years</span></td> 
+                  <td><span>5~6 歲</span></td> 
                   <td><span>112 - 117</span></td> 
                   <td><span>58 - 61</span></td> 
                   <td><span>56</span></td> 
@@ -52,7 +52,7 @@
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>122</span></td> 
-                  <td><span>6~7 years</span></td> 
+                  <td><span>6~7 歲</span></td> 
                   <td><span>119 - 122</span></td> 
                   <td><span>61 - 64</span></td> 
                   <td><span>57</span></td> 
@@ -61,7 +61,7 @@
                 </tr> 
                 <tr class=""> 
                   <td><span>128</span></td> 
-                  <td><span>7~8 years</span></td> 
+                  <td><span>7~8 歲</span></td> 
                   <td><span>124 - 127</span></td> 
                   <td><span>64</span></td> 
                   <td><span>57 - 58</span></td> 
@@ -70,7 +70,7 @@
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>134</span></td> 
-                  <td><span>8~9 years</span></td> 
+                  <td><span>8~9 歲</span></td> 
                   <td><span>130 - 135</span></td> 
                   <td><span>65 - 67</span></td> 
                   <td><span>60 - 61</span></td> 
@@ -79,7 +79,7 @@
                 </tr> 
                 <tr class=""> 
                   <td><span>140</span></td> 
-                  <td><span>9~10 years</span></td> 
+                  <td><span>9~10 歲</span></td> 
                   <td><span>137 - 140</span></td> 
                   <td><span>69 - 71</span></td> 
                   <td><span>62 - 64</span></td> 
@@ -88,7 +88,7 @@
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>146</span></td> 
-                  <td><span>10~11 years</span></td> 
+                  <td><span>10~11 歲</span></td> 
                   <td><span>142 - 145</span></td> 
                   <td><span>71 - 75</span></td> 
                   <td><span>64 - 66</span></td> 
@@ -97,7 +97,7 @@
                 </tr> 
                 <tr class=""> 
                   <td><span>152</span></td> 
-                  <td><span>11~12years</span></td> 
+                  <td><span>11~12 歲</span></td> 
                   <td><span>147 - 152</span></td> 
                   <td><span>75 - 77</span></td> 
                   <td><span>66 - 69</span></td> 
@@ -106,7 +106,7 @@
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>158</span></td> 
-                  <td><span>12~13 years</span></td> 
+                  <td><span>12~13 歲</span></td> 
                   <td><span>155 - 157</span></td> 
                   <td><span>79 - 83</span></td> 
                   <td><span>69 - 71</span></td> 
@@ -115,7 +115,7 @@
                 </tr> 
                 <tr class=""> 
                   <td><span>164</span></td> 
-                  <td><span>13~14 years</span></td> 
+                  <td><span>13~14 歲</span></td> 
                   <td><span>160 - 165</span></td> 
                   <td><span>83 - 86</span></td> 
                   <td><span>71 - 72</span></td> 
@@ -124,7 +124,7 @@
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>170</span></td> 
-                  <td><span>14~15 years</span></td> 
+                  <td><span>14~15 歲</span></td> 
                   <td><span>168 - 170</span></td> 
                   <td><span>86 - 89</span></td> 
                   <td><span>74 - 75</span></td> 
@@ -133,7 +133,7 @@
                 </tr> 
                 <tr class=""> 
                   <td><span>176</span></td> 
-                  <td><span>15~16 years</span></td> 
+                  <td><span>15~16 歲</span></td> 
                   <td><span>173 - 175</span></td> 
                   <td><span>89 - 91</span></td> 
                   <td><span>75 - 76</span></td> 
