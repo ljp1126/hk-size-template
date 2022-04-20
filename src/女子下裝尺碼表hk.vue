@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-07 17:07:37
- * @LastEditTime: 2022-04-20 10:13:13
+ * @LastEditTime: 2022-04-20 14:25:10
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -180,14 +180,10 @@
                   <td><span>71 - 75</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
-                  <td rowspan="2"><span>J/2XOT</span></td> 
-                  <td rowspan="2"><span>93 - 97</span></td> 
+                  <td><span>J/2XOT</span></td> 
+                  <td><span>93 - 97</span></td> 
                   <td><span>74 - 78</span></td> 
                 </tr> 
-                <tr class="tr-color"> 
-                  <td><span> </span></td> 
-                </tr>
-
               </tbody> 
             </table>
           </div>
