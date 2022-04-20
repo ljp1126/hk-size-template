@@ -2,7 +2,7 @@
  * @Description: 男子上装尺码表 en
  * @Author: lijiapeng
  * @Date: 2022-04-02 14:04:56
- * @LastEditTime: 2022-04-18 12:39:27
+ * @LastEditTime: 2022-04-20 09:49:02
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -47,7 +47,7 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td style="width: 38%" colspan="3"><span>International Size</span></td> 
+                  <td style="width: 36%" colspan="3"><span>International Size</span></td> 
                   <td><span>Chest (cm)</span></td> 
                   <td><span>Waist (cm)</span></td> 
                   <td><span>Hip (cm)</span></td> 
@@ -160,7 +160,7 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td style="width: 38%" colspan="2"><span>Asian Size</span></td> 
+                  <td style="width: 36%" colspan="2"><span>Asian Size</span></td> 
                   <td><span>Chest (cm)</span></td> 
                   <td><span>Waist (cm)</span></td> 
                   <td><span>Hip (cm)</span></td> 

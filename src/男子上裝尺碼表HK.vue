@@ -2,7 +2,7 @@
  * @Description: 男子上装尺码表 hk
  * @Author: lijiapeng
  * @Date: 2022-04-02 10:28:39
- * @LastEditTime: 2022-04-18 12:36:55
+ * @LastEditTime: 2022-04-20 09:40:18
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -31,13 +31,13 @@
               <div class="select-type">
                 <div class="select-numb">
                   <span class="select-show">
-                    <span class="show-content" id="show-content-one">国际码</span>
+                    <span class="show-content" id="show-content-one">國際碼</span>
                     <img id="down-show-one" src="https://img.adidas.com.hk/resources/images/common/downArrow.png" alt="" srcset="">
                     <img id="up-show-one" style="display: none" src="https://img.adidas.com.hk/resources/images/common/upArrow.png" alt="" srcset="">
                   </span>
                   <div class="size-options" id="size-options-one" style="display: none">
-                    <div class="optionsItem" id="inter-code-one">国际码</div>
-                    <div class="optionsItem" id="asian-code-one">亚洲码</div>
+                    <div class="optionsItem" id="inter-code-one">國際碼</div>
+                    <div class="optionsItem" id="asian-code-one">亞洲碼</div>
                   </div>
                 </div>
               </div>
@@ -47,10 +47,10 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td style="width: 38%" colspan="3"><span>國際尺碼</span></td> 
-                  <td><span>胸圍 (cm)</span></td> 
-                  <td><span>腰圍 (cm)</span></td> 
-                  <td><span>臀圍 (cm)</span></td> 
+                  <td style="width: 36%" colspan="3"><span>國際尺碼</span></td> 
+                  <td><span>胸圍 (厘米)</span></td> 
+                  <td><span>腰圍 (厘米)</span></td> 
+                  <td><span>臀圍 (厘米)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>-</span></td> 
@@ -160,10 +160,10 @@
             <table> 
               <tbody> 
                 <tr class="tr-color tr-title"> 
-                  <td style="width: 38%" colspan="2"><span>亚洲尺碼</span></td> 
-                  <td><span>胸圍 (cm)</span></td> 
-                  <td><span>腰圍 (cm)</span></td> 
-                  <td><span>臀圍 (cm)</span></td> 
+                  <td style="width: 36%" colspan="2"><span>亞洲尺碼</span></td> 
+                  <td><span>胸圍 (厘米)</span></td> 
+                  <td><span>腰圍 (厘米)</span></td> 
+                  <td><span>臀圍 (厘米)</span></td> 
                 </tr> 
                 <tr class=""> 
                   <td><span>-</span></td> 
