@@ -2,7 +2,7 @@
  * @Description: 大童鞋款尺碼表-8-14歲
  * @Author: lijiapeng
  * @Date: 2022-04-07 14:55:53
- * @LastEditTime: 2022-04-20 11:42:46
+ * @LastEditTime: 2022-04-20 12:29:57
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -401,8 +401,8 @@
         <div class="size-content" id="size-content-inches" style="display: none">
           <div class="size-type">
             <div class="size-title">
-              <span class="check-type" id="cm-type">cm</span>
-              <span class="check-type check-active">Inches</span>
+              <span class="check-type" id="cm-type">厘米</span>
+              <span class="check-type check-active">英寸</span>
             </div>
             <div class="size-select">
               <div class="select-type">

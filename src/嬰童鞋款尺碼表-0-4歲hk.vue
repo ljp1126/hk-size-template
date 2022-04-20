@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-08 10:41:14
- * @LastEditTime: 2022-04-20 12:09:25
+ * @LastEditTime: 2022-04-20 12:31:26
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -308,8 +308,8 @@
         <div class="size-content" id="size-content-inches" style="display: none">
           <div class="size-type">
             <div class="size-title">
-              <span class="check-type" id="cm-type">cm</span>
-              <span class="check-type check-active">Inches</span>
+              <span class="check-type" id="cm-type">厘米</span>
+              <span class="check-type check-active">英寸</span>
             </div>
             <div class="size-select">
               <div class="select-type">

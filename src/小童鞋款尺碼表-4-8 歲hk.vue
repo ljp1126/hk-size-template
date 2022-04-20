@@ -2,7 +2,7 @@
  * @Description: 小童鞋款尺碼表-4-8 歲en
  * @Author: lijiapeng
  * @Date: 2022-04-07 15:01:06
- * @LastEditTime: 2022-04-20 11:59:54
+ * @LastEditTime: 2022-04-20 12:30:30
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -401,8 +401,8 @@
         <div class="size-content" id="size-content-inches" style="display: none">
           <div class="size-type">
             <div class="size-title">
-              <span class="check-type" id="cm-type">cm</span>
-              <span class="check-type check-active">Inches</span>
+              <span class="check-type" id="cm-type">厘米</span>
+              <span class="check-type check-active">英寸</span>
             </div>
             <div class="size-select">
               <div class="select-type">

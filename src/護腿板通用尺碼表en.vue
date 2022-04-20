@@ -2,7 +2,7 @@
  * @Description: 護腿板通用尺碼表
  * @Author: lijiapeng
  * @Date: 2022-04-08 11:55:23
- * @LastEditTime: 2022-04-14 14:47:22
+ * @LastEditTime: 2022-04-20 12:46:18
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -34,7 +34,7 @@
                   <td><span>L</span></td> 
                 </tr> 
                 <tr class=""> 
-                  <td><span>Height Reference</span></td> 
+                  <td><span>Height Reference (cm)</span></td> 
                   <td><span>100-120</span></td> 
                   <td><span>120-140</span></td> 
                   <td><span>140-160</span></td> 
