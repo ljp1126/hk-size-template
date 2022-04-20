@@ -2,7 +2,7 @@
  * @Description: 男子鞋款尺码表
  * @Author: lijiapeng
  * @Date: 2022-04-02 17:47:53
- * @LastEditTime: 2022-04-20 14:15:40
+ * @LastEditTime: 2022-04-20 14:37:20
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -39,8 +39,8 @@
                   </span>
                   <div class="size-options" id="size-options-one" style="display: none">
                     <div class="optionsItem" id="eu-code-one">EU</div>
-                    <div class="optionsItem" id="usm-code-one">US-MAN</div>
-                    <div class="optionsItem" id="usw-code-one">US-WOMAN</div>
+                    <div class="optionsItem" id="usm-code-one">US-MEN</div>
+                    <div class="optionsItem" id="usw-code-one">US-WOMEN</div>
                     <div class="optionsItem" id="cn-code-one">CN</div>
                   </div>
                 </div>
@@ -657,8 +657,8 @@
                   </span>
                   <div class="size-options" id="size-options-two" style="display: none">
                     <div class="optionsItem" id="eu-code-two">EU</div>
-                    <div class="optionsItem" id="usm-code-two">US-MAN</div>
-                    <div class="optionsItem" id="usw-code-two">US-WOMAN</div>
+                    <div class="optionsItem" id="usm-code-two">US-MEN</div>
+                    <div class="optionsItem" id="usw-code-two">US-WOMEN</div>
                     <div class="optionsItem" id="cn-code-two">CN</div>
                   </div>
                 </div>
