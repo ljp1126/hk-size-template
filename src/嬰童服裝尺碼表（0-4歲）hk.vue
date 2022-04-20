@@ -2,7 +2,7 @@
  * @Description: 嬰童服裝尺碼表（0-4歲）hk
  * @Author: lijiapeng
  * @Date: 2022-04-08 10:17:26
- * @LastEditTime: 2022-04-20 09:43:57
+ * @LastEditTime: 2022-04-20 10:56:27
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -43,7 +43,7 @@
                 </tr> 
                 <tr class=""> 
                   <td><span>56</span></td> 
-                  <td><span>0 - 3 months</span></td> 
+                  <td><span>0 - 3 月</span></td> 
                   <td><span>56 - 62</span></td> 
                   <td><span>39 - 43</span></td> 
                   <td><span>39 - 43</span></td> 
@@ -52,7 +52,7 @@
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>62</span></td> 
-                  <td><span>3 months</span></td> 
+                  <td><span>3 月</span></td> 
                   <td><span>62 - 69</span></td> 
                   <td><span>43 - 45</span></td> 
                   <td><span>43 - 45</span></td> 
@@ -61,7 +61,7 @@
                 </tr> 
                   <tr class=""> 
                   <td><span>68</span></td> 
-                  <td><span>3 - 6 months</span></td> 
+                  <td><span>3 - 6 月</span></td> 
                   <td><span>69 - 74</span></td> 
                   <td><span>45 - 47</span></td> 
                   <td><span>45 - 46</span></td> 
@@ -70,7 +70,7 @@
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>74</span></td> 
-                  <td><span>6 - 9 months</span></td> 
+                  <td><span>6 - 9 月</span></td> 
                   <td><span>74 - 80</span></td> 
                   <td><span>47 - 50</span></td> 
                   <td><span>46 - 49</span></td> 
@@ -79,7 +79,7 @@
                 </tr> 
                   <tr class=""> 
                   <td><span>80</span></td> 
-                  <td><span>9 - 12 months</span></td> 
+                  <td><span>9 - 12 月</span></td> 
                   <td><span>80 - 86</span></td> 
                   <td><span>50 - 51</span></td> 
                   <td><span>49 - 50</span></td> 
@@ -88,7 +88,7 @@
                 </tr> 
                 <tr class="tr-color"> 
                   <td><span>86</span></td> 
-                  <td><span>12-18 months</span></td> 
+                  <td><span>12-18 月</span></td> 
                   <td><span>86 - 91</span></td> 
                   <td><span>51 - 52</span></td> 
                   <td><span>50 - 51</span></td> 
