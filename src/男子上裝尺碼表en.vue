@@ -2,7 +2,7 @@
  * @Description: 男子上装尺码表 en
  * @Author: lijiapeng
  * @Date: 2022-04-02 14:04:56
- * @LastEditTime: 2022-04-20 17:09:45
+ * @LastEditTime: 2022-04-20 17:16:57
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -14,7 +14,7 @@
       <div class="sizeClose">
         <i id="closeDrawer" class="iconfont iconcross-small"></i>
       </div>
-      <div class="text">Men's Tops Size Chart</div>
+      <div class="text">MEN'S TOPS SIZE CHART</div>
     </div>
     <div class="type">
       <div id="left-type" class="left active">SIZE & FIT</div>

@@ -13,7 +13,7 @@
       <div class="sizeClose">
         <i id="closeDrawer" class="iconfont iconcross-small"></i>
       </div>
-      <div class="text">Socks Size Chart</div>
+      <div class="text">SOCKS SIZE CHART</div>
     </div>
     <div class="type">
       <!-- <div id="left-type" class="left active">尺碼表</div> -->

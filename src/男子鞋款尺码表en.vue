@@ -13,7 +13,7 @@
       <div class="sizeClose">
         <i id="closeDrawer" class="iconfont iconcross-small"></i>
       </div>
-      <div class="text">Men's and Women's Shoes Size Chart</div>
+      <div class="text">MEN'S AND WOMEN'S SHOES SIZE CHART</div>
     </div>
     <div class="type">
       <!-- <div id="left-type" class="left active">尺碼表</div> -->

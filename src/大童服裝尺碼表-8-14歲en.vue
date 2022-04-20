@@ -13,7 +13,7 @@
       <div class="sizeClose">
         <i id="closeDrawer" class="iconfont iconcross-small"></i>
       </div>
-      <div class="text">Youth Clothing Size Chart (8-14 Years)</div>
+      <div class="text">YOUTH CLOTHING SIZE CHART (8-14 YEARS)</div>
     </div>
     <div class="type">
       <!-- <div id="left-type" class="left active">尺碼表</div> -->

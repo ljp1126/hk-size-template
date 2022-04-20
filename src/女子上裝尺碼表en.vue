@@ -14,7 +14,7 @@
       <div class="sizeClose">
         <i id="closeDrawer" class="iconfont iconcross-small"></i>
       </div>
-      <div class="text">Women's Tops Size Chart</div>
+      <div class="text">WOMEN'S TOPS SIZE CHART</div>
     </div>
     <div class="type">
       <!-- <div id="left-type" class="left active">尺碼表</div> -->

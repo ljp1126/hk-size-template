@@ -13,7 +13,7 @@
       <div class="sizeClose">
         <i id="closeDrawer" class="iconfont iconcross-small"></i>
       </div>
-      <div class="text">Infants & Toddlers Clothing Size Chart (0-4 Years)</div>
+      <div class="text">INFANTS & TODDLERS CLOTHING SIZE CHART (0-4 YEARS)</div>
     </div>
     <div class="type">
       <!-- <div id="left-type" class="left active">尺碼表</div> -->

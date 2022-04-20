@@ -13,7 +13,7 @@
       <div class="sizeClose">
         <i id="closeDrawer" class="iconfont iconcross-small"></i>
       </div>
-      <div class="text">Hat & Cap Size Chart</div>
+      <div class="text">HAT & CAP SIZE CHART</div>
     </div>
     <div class="type type-one">
       <!-- <div id="left-type" class="left active">尺碼表</div> -->
