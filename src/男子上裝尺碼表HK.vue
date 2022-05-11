@@ -2,7 +2,7 @@
  * @Description: 男子上装尺码表 hk
  * @Author: lijiapeng
  * @Date: 2022-04-02 10:28:39
- * @LastEditTime: 2022-04-20 09:40:18
+ * @LastEditTime: 2022-05-05 09:25:35
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -73,23 +73,6 @@
                 </tr> 
 
                 <tr class=""> 
-                  <td rowspan="3"><span>M</span></td> 
-                  <td rowspan="2"><span>50</span></td> 
-                  <td><span>38/40</span></td> 
-                  <td rowspan="3"><span>94 - 102</span></td> 
-                  <td rowspan="3"><span>81 - 89</span></td> 
-                  <td rowspan="3"><span>94 - 102</span></td> 
-                </tr> 
-                <tr class=""> 
-                  <td><span>40/42</span></td> 
-                </tr> 
-
-                <tr class=""> 
-                  <td><span>52</span></td> 
-                  <td><span>40/42</span></td> 
-                </tr>
-
-                <tr class="tr-color"> 
                   <td rowspan="2"><span>S</span></td> 
                   <td><span>46</span></td> 
                   <td><span>34/36</span></td> 
@@ -97,10 +80,27 @@
                   <td rowspan="2"><span>76 - 81 </span></td> 
                   <td rowspan="2"><span>89 - 94</span></td> 
                 </tr> 
-                <tr class="tr-color"> 
+                <tr class=""> 
                   <td><span>48</span></td> 
                   <td><span>36/38</span></td> 
                 </tr> 
+
+                <tr class="tr-color"> 
+                  <td rowspan="3"><span>M</span></td> 
+                  <td rowspan="2"><span>50</span></td> 
+                  <td><span>38/40</span></td> 
+                  <td rowspan="3"><span>94 - 102</span></td> 
+                  <td rowspan="3"><span>81 - 89</span></td> 
+                  <td rowspan="3"><span>94 - 102</span></td> 
+                </tr> 
+                <tr class="tr-color"> 
+                  <td><span>40/42</span></td> 
+                </tr> 
+
+                <tr class="tr-color"> 
+                  <td><span>52</span></td> 
+                  <td><span>40/42</span></td> 
+                </tr>
 
                 <tr class=""> 
                   <td rowspan="2"><span>L</span></td> 
