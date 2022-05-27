@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-07 17:07:37
- * @LastEditTime: 2022-05-11 15:39:05
+ * @LastEditTime: 2022-05-27 13:25:07
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -193,48 +193,43 @@
               <tbody> 
                 <tr class="tr-color tr-title"> 
                   <td><span>日本碼 (J)</span></td> 
-                  <td><span>胸圍 (厘米)</span></td> 
                   <td><span>腰圍 (厘米)</span></td> 
+                  <td><span>内長(厘米)</span></td> 
                 </tr> 
                 <tr class=""> 
-                  <td><span>J/2XS</span></td> 
-                  <td><span>72 - 76</span></td> 
-                  <td><span>53 - 57</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
                   <td><span>J/XS</span></td> 
-                  <td><span>75 - 79</span></td> 
-                  <td><span>56 - 60</span></td> 
+                  <td><span>54</span></td> 
+                  <td><span>65.1</span></td> 
                 </tr> 
-                <tr class=""> 
+                <tr class="tr-color"> 
                   <td><span>J/S</span></td> 
-                  <td><span>78 - 82</span></td> 
-                  <td><span>59 - 63</span></td> 
+                  <td><span>57</span></td> 
+                  <td><span>66.6</span></td> 
                 </tr> 
-                <tr class="tr-color"> 
+                <tr class=""> 
                   <td><span>J/M</span></td> 
-                  <td><span>81 - 85</span></td> 
-                  <td><span>62 - 66</span></td> 
+                  <td><span>60</span></td> 
+                  <td><span>68.1</span></td> 
                 </tr> 
-                <tr class=""> 
+                <tr class="tr-color"> 
                   <td><span>J/L</span></td> 
-                  <td><span>84 - 88</span></td> 
-                  <td><span>65 - 69</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>J/OT</span></td> 
-                  <td><span>87 - 91</span></td> 
-                  <td><span>68 - 72</span></td> 
+                  <td><span>63</span></td> 
+                  <td><span>69.6</span></td> 
                 </tr> 
                 <tr class=""> 
-                  <td><span>J/XOT</span></td> 
-                  <td><span>90 - 94</span></td> 
-                  <td><span>71 - 75</span></td> 
+                  <td><span>J/OT</span></td> 
+                  <td><span>66</span></td> 
+                  <td><span>71.1</span></td> 
                 </tr> 
                 <tr class="tr-color"> 
+                  <td><span>J/XOT</span></td> 
+                  <td><span>69</span></td> 
+                  <td><span>72.6</span></td> 
+                </tr> 
+                <tr class=""> 
                   <td><span>J/2XOT</span></td> 
-                  <td><span>93 - 97</span></td> 
-                  <td><span>74 - 78</span></td> 
+                  <td><span>72</span></td> 
+                  <td><span>74.1</span></td> 
                 </tr> 
               </tbody> 
             </table>
