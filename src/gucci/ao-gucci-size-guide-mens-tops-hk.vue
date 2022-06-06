@@ -4,7 +4,7 @@
       <div class="sizeClose">
         <i id="closeDrawer" class="iconfont iconcross-small"></i>
       </div>
-      <div class="text">男子上裝尺碼表</div>
+      <div class="text">ADIDAS X GUCCI 男子上裝尺碼表</div>
     </div>
     <div class="type">
       <div id="left-type" class="left active">尺碼表</div>
