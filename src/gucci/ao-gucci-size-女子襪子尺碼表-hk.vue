@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-06-02 18:34:30
- * @LastEditTime: 2022-06-06 11:06:19
+ * @LastEditTime: 2022-06-06 13:39:03
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -27,13 +27,13 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td><span>鞋碼</span></td>
-                  <td><span>意大利碼</span></td>
-                  <td><span>美國碼</span></td>
-                  <td><span>英國碼</span></td>
-                  <td><span>澳大利亞碼</span></td>
-                  <td><span>日本碼</span></td>
-                  <td><span>國碼</span></td>
+                  <td><span>尺碼表</span></td>
+                  <td><span>IT</span></td>
+                  <td><span>US</span></td>
+                  <td><span>UK</span></td>
+                  <td><span>AU</span></td>
+                  <td><span>JP</span></td>
+                  <td><span>KR</span></td>
                 </tr>
                 <tr class="">
                   <td><span>S</span></td>

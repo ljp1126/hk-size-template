@@ -17,8 +17,8 @@
         <div class="size-content" id="size-content-cm">
           <div class="size-type">
             <div class="size-title">
-              <span class="check-type check-active">cm</span>
-              <span class="check-type" id="inches-type">Inches</span>
+              <span class="check-type check-active">厘米</span>
+              <span class="check-type" id="inches-type">英寸</span>
             </div>
             <div class="size-select">
               <div class="select-type">
@@ -30,10 +30,10 @@
                   </span>
                   <div class="size-options" id="size-options-one" style="display: none">
                     <div class="optionsItem" id="inl-code-one">國際碼</div>
-                    <div class="optionsItem" id="it-code-one">意大利碼</div>
-                    <div class="optionsItem" id="eu-code-one">EU</div>
-                    <div class="optionsItem" id="ukau-code-one">UK/AU</div>
-                    <div class="optionsItem" id="jp-code-one">日本碼</div>
+                    <div class="optionsItem" id="it-code-one">意大利碼 (IT)</div>
+                    <div class="optionsItem" id="eu-code-one">歐洲碼 (EU)</div>
+                    <div class="optionsItem" id="ukau-code-one">英國碼 (UK/AU)</div>
+                    <div class="optionsItem" id="jp-code-one">日本碼 (JP)</div>
                   </div>
                 </div>
               </div>
@@ -44,8 +44,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>國際碼</span></td>
-                  <td style="width: 33%"><span>肩寬 (CM)</span></td>
-                  <td style="width: 34%"><span>胸圍 (CM)</span></td>
+                  <td style="width: 33%"><span>肩寬 (厘米)</span></td>
+                  <td style="width: 34%"><span>胸圍 (厘米)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>XXXS</span></td>
@@ -104,9 +104,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>	意大利碼</span></td>
-                  <td style="width: 33%"><span>肩寬 (CM)</span></td>
-                  <td style="width: 34%"><span>胸圍 (CM)</span></td>
+                  <td style="width: 33%"><span>	意大利碼 (IT)</span></td>
+                  <td style="width: 33%"><span>肩寬 (厘米)</span></td>
+                  <td style="width: 34%"><span>胸圍 (厘米)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>34</span></td>
@@ -165,9 +165,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>EU</span></td>
-                  <td style="width: 33%"><span>肩寬 (CM)</span></td>
-                  <td style="width: 34%"><span>胸圍 (CM)</span></td>
+                  <td style="width: 33%"><span>歐洲碼 (EU)</span></td>
+                  <td style="width: 33%"><span>肩寬 (厘米)</span></td>
+                  <td style="width: 34%"><span>胸圍 (厘米)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>30</span></td>
@@ -226,9 +226,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>UK/AU</span></td>
-                  <td style="width: 33%"><span>肩寬 (CM)</span></td>
-                  <td style="width: 34%"><span>胸圍 (CM)</span></td>
+                  <td style="width: 33%"><span>英國碼 (UK/AU)</span></td>
+                  <td style="width: 33%"><span>肩寬 (厘米)</span></td>
+                  <td style="width: 34%"><span>胸圍 (厘米)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>2</span></td>
@@ -287,9 +287,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>日本碼</span></td>
-                  <td style="width: 33%"><span>肩寬 (CM)</span></td>
-                  <td style="width: 34%"><span>胸圍 (CM)</span></td>
+                  <td style="width: 33%"><span>日本碼 (JP)</span></td>
+                  <td style="width: 33%"><span>肩寬 (厘米)</span></td>
+                  <td style="width: 34%"><span>胸圍 (厘米)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>3</span></td>
@@ -348,8 +348,8 @@
         <div class="size-content" id="size-content-inches" style="display: none">
           <div class="size-type">
             <div class="size-title">
-              <span class="check-type" id="cm-type">cm</span>
-              <span class="check-type check-active">Inches</span>
+              <span class="check-type" id="cm-type">厘米</span>
+              <span class="check-type check-active">英寸</span>
             </div>
             <div class="size-select">
               <div class="select-type">
@@ -361,10 +361,10 @@
                   </span>
                   <div class="size-options" id="size-options-two" style="display: none">
                     <div class="optionsItem" id="inl-code-two">國際碼</div>
-                    <div class="optionsItem" id="it-code-two">意大利碼</div>
-                    <div class="optionsItem" id="eu-code-two">EU</div>
-                    <div class="optionsItem" id="ukau-code-two">UK/AU</div>
-                    <div class="optionsItem" id="jp-code-two">日本碼</div>
+                    <div class="optionsItem" id="it-code-two">意大利碼 (IT)</div>
+                    <div class="optionsItem" id="eu-code-two">歐洲碼 (EU)</div>
+                    <div class="optionsItem" id="ukau-code-two">英國碼 (UK/AU)</div>
+                    <div class="optionsItem" id="jp-code-two">日本碼 (JP)</div>
                   </div>
                 </div>
               </div>
@@ -375,8 +375,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>國際碼</span></td>
-                  <td style="width: 33%"><span>肩寬 (IN)</span></td>
-                  <td style="width: 34%"><span>胸圍 (IN)</span></td>
+                  <td style="width: 33%"><span>肩寬 (英寸)</span></td>
+                  <td style="width: 34%"><span>胸圍 (英寸)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>XXXS</span></td>
@@ -435,9 +435,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>意大利碼</span></td>
-                  <td style="width: 33%"><span>肩寬 (IN)</span></td>
-                  <td style="width: 34%"><span>胸圍 (IN)</span></td>
+                  <td style="width: 33%"><span>意大利碼 (IT)</span></td>
+                  <td style="width: 33%"><span>肩寬 (英寸)</span></td>
+                  <td style="width: 34%"><span>胸圍 (英寸)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>34</span></td>
@@ -496,9 +496,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>EU</span></td>
-                  <td style="width: 33%"><span>肩寬 (IN)</span></td>
-                  <td style="width: 34%"><span>胸圍 (IN)</span></td>
+                  <td style="width: 33%"><span>歐洲碼 (EU)</span></td>
+                  <td style="width: 33%"><span>肩寬 (英寸)</span></td>
+                  <td style="width: 34%"><span>胸圍 (英寸)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>30</span></td>
@@ -557,9 +557,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>UK/AU</span></td>
-                  <td style="width: 33%"><span>肩寬 (IN)</span></td>
-                  <td style="width: 34%"><span>胸圍 (IN)</span></td>
+                  <td style="width: 33%"><span>英國碼 (UK/AU)</span></td>
+                  <td style="width: 33%"><span>肩寬 (英寸)</span></td>
+                  <td style="width: 34%"><span>胸圍 (英寸)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>2</span></td>
@@ -618,9 +618,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>日本碼</span></td>
-                  <td style="width: 33%"><span>肩寬 (IN)</span></td>
-                  <td style="width: 34%"><span>胸圍 (IN)</span></td>
+                  <td style="width: 33%"><span>日本碼 (JP)</span></td>
+                  <td style="width: 33%"><span>肩寬 (英寸)</span></td>
+                  <td style="width: 34%"><span>胸圍 (英寸)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>3</span></td>

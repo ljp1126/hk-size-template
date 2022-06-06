@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-06-02 10:33:41
- * @LastEditTime: 2022-06-06 10:51:54
+ * @LastEditTime: 2022-06-06 12:51:44
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -28,7 +28,7 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td><span>Size</span></td>
-                  <td><span>Length (Inch)</span></td>
+                  <td><span>Length (inch)</span></td>
                   <td><span>Length (cm)</span></td>
                 </tr>
                 <tr class="">

@@ -43,9 +43,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>SIZE</span></td>
-                  <td style="width: 33%"><span>SHOULDERS (CM)</span></td>
-                  <td style="width: 34%"><span>CHEST (CM)</span></td>
+                  <td style="width: 33%"><span>International Size</span></td>
+                  <td style="width: 33%"><span>Shouledrs (cm)</span></td>
+                  <td style="width: 34%"><span>Chest (cm)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>XXXS</span></td>
@@ -105,8 +105,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>	IT</span></td>
-                  <td style="width: 33%"><span>SHOULDERS (CM)</span></td>
-                  <td style="width: 34%"><span>CHEST (CM)</span></td>
+                  <td style="width: 33%"><span>Shouledrs (cm)</span></td>
+                  <td style="width: 34%"><span>Chest (cm)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>34</span></td>
@@ -166,8 +166,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>EU</span></td>
-                  <td style="width: 33%"><span>SHOULDERS (CM)</span></td>
-                  <td style="width: 34%"><span>CHEST (CM)</span></td>
+                  <td style="width: 33%"><span>Shouledrs (cm)</span></td>
+                  <td style="width: 34%"><span>Chest (cm)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>30</span></td>
@@ -227,8 +227,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>UK/AU</span></td>
-                  <td style="width: 33%"><span>SHOULDERS (CM)</span></td>
-                  <td style="width: 34%"><span>CHEST (CM)</span></td>
+                  <td style="width: 33%"><span>Shouledrs (cm)</span></td>
+                  <td style="width: 34%"><span>Chest (cm)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>2</span></td>
@@ -288,8 +288,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>JP</span></td>
-                  <td style="width: 33%"><span>SHOULDERS (CM)</span></td>
-                  <td style="width: 34%"><span>CHEST (CM)</span></td>
+                  <td style="width: 33%"><span>Shouledrs (cm)</span></td>
+                  <td style="width: 34%"><span>Chest (cm)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>3</span></td>
@@ -374,9 +374,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>SIZE</span></td>
-                  <td style="width: 33%"><span>SHOULDERS (IN)</span></td>
-                  <td style="width: 34%"><span>CHEST (IN)</span></td>
+                  <td style="width: 33%"><span>International Size</span></td>
+                  <td style="width: 33%"><span>Shoulders (inch)</span></td>
+                  <td style="width: 34%"><span>Chest (inch)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>XXXS</span></td>
@@ -436,8 +436,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>IT</span></td>
-                  <td style="width: 33%"><span>SHOULDERS (IN)</span></td>
-                  <td style="width: 34%"><span>CHEST (IN)</span></td>
+                  <td style="width: 33%"><span>Shoulders (inch)</span></td>
+                  <td style="width: 34%"><span>Chest (inch)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>34</span></td>
@@ -497,8 +497,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>EU</span></td>
-                  <td style="width: 33%"><span>SHOULDERS (IN)</span></td>
-                  <td style="width: 34%"><span>CHEST (IN)</span></td>
+                  <td style="width: 33%"><span>Shoulders (inch)</span></td>
+                  <td style="width: 34%"><span>Chest (inch)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>30</span></td>
@@ -558,8 +558,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>UK/AU</span></td>
-                  <td style="width: 33%"><span>SHOULDERS (IN)</span></td>
-                  <td style="width: 34%"><span>CHEST (IN)</span></td>
+                  <td style="width: 33%"><span>Shoulders (inch)</span></td>
+                  <td style="width: 34%"><span>Chest (inch)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>2</span></td>
@@ -619,8 +619,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>JP</span></td>
-                  <td style="width: 33%"><span>SHOULDERS (IN)</span></td>
-                  <td style="width: 34%"><span>CHEST (IN)</span></td>
+                  <td style="width: 33%"><span>Shoulders (inch)</span></td>
+                  <td style="width: 34%"><span>Chest (inch)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>3</span></td>

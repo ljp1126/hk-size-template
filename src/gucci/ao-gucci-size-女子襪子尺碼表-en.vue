@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-06-02 18:34:30
- * @LastEditTime: 2022-06-06 11:06:33
+ * @LastEditTime: 2022-06-06 13:39:43
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -27,7 +27,7 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td><span>SHOE SIZE</span></td>
+                  <td><span>Size</span></td>
                   <td><span>IT</span></td>
                   <td><span>US</span></td>
                   <td><span>UK</span></td>

@@ -4,7 +4,7 @@
       <div class="sizeClose">
         <i id="closeDrawer" class="iconfont iconcross-small"></i>
       </div>
-      <div class="text">ADIDAS X GUCCI MEN’S BOTTOMS SIZE GUIDE</div>
+      <div class="text">ADIDAS X GUCCI MEN'S BOTTOMS SIZE GUIDE</div>
     </div>
     <div class="type">
       <!-- <div id="left-type" class="left active">尺碼表</div> -->
@@ -41,9 +41,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>SIZE</span></td>
-                  <td style="width: 33%"><span>WAIST (CM)</span></td>
-                  <td style="width: 34%"><span>HIPS (CM)</span></td>
+                  <td style="width: 33%"><span>International Size</span></td>
+                  <td style="width: 33%"><span>Waist (cm)</span></td>
+                  <td style="width: 34%"><span>Hips (cm)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>XXS</span></td>
@@ -113,8 +113,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>IT</span></td>
-                  <td style="width: 33%"><span>WAIST (CM)</span></td>
-                  <td style="width: 34%"><span>HIPS (CM)</span></td>
+                  <td style="width: 33%"><span>Waist (cm)</span></td>
+                  <td style="width: 34%"><span>Hips (cm)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>42</span></td>
@@ -184,8 +184,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>JEANS</span></td>
-                  <td style="width: 33%"><span>WAIST (CM)</span></td>
-                  <td style="width: 34%"><span>HIPS (CM)</span></td>
+                  <td style="width: 33%"><span>Waist (cm)</span></td>
+                  <td style="width: 34%"><span>Hips (cm)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>28-29</span></td>
@@ -278,9 +278,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>SIZE</span></td>
-                  <td style="width: 33%"><span>WAIST (IN)</span></td>
-                  <td style="width: 34%"><span>HIPS (IN)</span></td>
+                  <td style="width: 33%"><span>International Size</span></td>
+                  <td style="width: 33%"><span>Waist (inch)</span></td>
+                  <td style="width: 34%"><span>Hips (inch)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>XXS</span></td>
@@ -350,8 +350,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>IT</span></td>
-                  <td style="width: 33%"><span>WAIST (IN)</span></td>
-                  <td style="width: 34%"><span>HIPS (IN)</span></td>
+                  <td style="width: 33%"><span>Waist (inch)</span></td>
+                  <td style="width: 34%"><span>Hips (inch)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>42</span></td>
@@ -421,8 +421,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>JEANS</span></td>
-                  <td style="width: 33%"><span>WAIST (IN)</span></td>
-                  <td style="width: 34%"><span>HIPS (IN)</span></td>
+                  <td style="width: 33%"><span>Waist (inch)</span></td>
+                  <td style="width: 34%"><span>Hips (inch)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>28-29</span></td>

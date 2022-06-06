@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-06-02 10:33:41
- * @LastEditTime: 2022-06-06 10:51:58
+ * @LastEditTime: 2022-06-06 12:51:01
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -27,9 +27,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td><span>Size</span></td>
-                  <td><span>Length (Inch)</span></td>
-                  <td><span>Length (cm)</span></td>
+                  <td><span>尺碼</span></td>
+                  <td><span>頭圍 (英寸)</span></td>
+                  <td><span>頭圍 (厘米)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>XS</span></td>

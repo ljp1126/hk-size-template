@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-06-02 11:12:14
- * @LastEditTime: 2022-06-06 11:03:04
+ * @LastEditTime: 2022-06-06 13:26:31
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -14,11 +14,11 @@
       </div>
       <div class="text">ADIDAS X GUCCI WOMEN'S OVERSIZE TEE SIZE GUIDE</div>
     </div>
-    <div class="type type-one">
+    <div class="type">
       <!-- <div id="left-type" class="left active">尺碼表</div> -->
       <!-- <div id="right-type" class="right">如何測量</div> -->
       <div id="left-type" class="left active">SIZE & FIT</div>
-      <!-- <div id="right-type" class="right">HOW TO MEASURE</div> -->
+      <div id="right-type" class="right">HOW TO MEASURE</div>
     </div>
     <div class="table-info">
       <div class="size-info" id="sizeInfo">
@@ -27,11 +27,11 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td><span>MEASUREMENT(CM)</span></td>
-                  <td><span>Center Back Length</span></td>
-                  <td><span>Chest Width</span></td>
-                  <td><span>Sleeve Length</span></td>
-                  <td><span>Shoulder Width</span></td>
+                  <td><span>International Size</span></td>
+                  <td><span>Center Back Length (cm)</span></td>
+                  <td><span>Chest Width (cm)</span></td>
+                  <td><span>Sleeve Length (cm)</span></td>
+                  <td><span>Shoulder Width (cm)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>XXS</span></td>
@@ -88,6 +88,45 @@
         </div>
       </div>
       <div class="size-measure" id="measure">
+        <div class="measure">
+          <div class="img-info">
+            <div class="instructions">
+              <div class="steps-type">
+                <p class="tipinfo">Hold the tape horizontally to measure:</p>
+                <ul class="steps">
+                  <li class="step">
+                    <span class="step-title">1. Chest, </span>
+                    <span class="step-body">around the widest part</span>
+                  </li>
+                  <li class="step">
+                    <span class="step-title">2. Waist, </span>
+                    <span class="step-body">around the narrowest part</span>
+                  </li>
+                  <li class="step">
+                    <span class="step-title">3. Hip, </span>
+                    <span class="step-body">around the widest part, keeping the feet close together</span>
+                  </li>
+                </ul>
+              </div>
+              <div class="steps-type">
+                <p class="tipinfo">Hold the tape vertically to measure:</p>
+                <ul class="steps">
+                  <li class="step">
+                    <span class="step-title">4. Inseam, </span>
+                    <span class="step-body">from the crotch to the floor</span>
+                  </li>
+                  <li class="step">
+                    <span class="step-title">5. Height, </span>
+                    <span class="step-body">from the top of the head to the floor, keeping a straight posture</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="image-container">
+              <img src="https://img.adidas.com.hk/resources/images/size/measure-women.png" alt="" srcset="">
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>

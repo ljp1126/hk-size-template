@@ -4,7 +4,7 @@
       <div class="sizeClose">
         <i id="closeDrawer" class="iconfont iconcross-small"></i>
       </div>
-      <div class="text">ADIDAS X GUCCI MEN’S TOPS SIZE GUIDE</div>
+      <div class="text">ADIDAS X GUCCI MEN'S TOPS SIZE GUIDE</div>
     </div>
     <div class="type">
       <!-- <div id="left-type" class="left active">尺碼表</div> -->
@@ -40,9 +40,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>SIZE</span></td>
-                  <td style="width: 33%"><span>SHOULDERS (CM)</span></td>
-                  <td style="width: 34%"><span>CHEST (CM)</span></td>
+                  <td style="width: 33%"><span>Size</span></td>
+                  <td style="width: 33%"><span>Shoulders (cm)</span></td>
+                  <td style="width: 34%"><span>Chest (cm)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>XXS</span></td>
@@ -112,8 +112,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>IT</span></td>
-                  <td style="width: 33%"><span>SHOULDERS (CM)</span></td>
-                  <td style="width: 34%"><span>CHEST (CM)</span></td>
+                  <td style="width: 33%"><span>Shoulders (cm)</span></td>
+                  <td style="width: 34%"><span>Chest (cm)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>42</span></td>
@@ -205,9 +205,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>SIZE</span></td>
-                  <td style="width: 33%"><span>SHOULDERS (IN)</span></td>
-                  <td style="width: 34%"><span>CHEST (IN)</span></td>
+                  <td style="width: 33%"><span>Size</span></td>
+                  <td style="width: 33%"><span>Shoulders (inch)</span></td>
+                  <td style="width: 34%"><span>Chest (inch)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>XXS</span></td>
@@ -277,8 +277,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>IT</span></td>
-                  <td style="width: 33%"><span>SHOULDERS (IN)</span></td>
-                  <td style="width: 34%"><span>CHEST (IN)</span></td>
+                  <td style="width: 33%"><span>Shoulders (inch)</span></td>
+                  <td style="width: 34%"><span>Chest (inch)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>42</span></td>

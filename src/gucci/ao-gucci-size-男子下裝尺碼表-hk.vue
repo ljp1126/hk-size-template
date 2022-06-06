@@ -17,8 +17,8 @@
         <div class="size-content" id="size-content-cm">
           <div class="size-type">
             <div class="size-title">
-              <span class="check-type check-active">cm</span>
-              <span class="check-type" id="inches-type">Inches</span>
+              <span class="check-type check-active">厘米</span>
+              <span class="check-type" id="inches-type">英寸</span>
             </div>
             <div class="size-select">
               <div class="select-type">
@@ -42,8 +42,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>國際碼</span></td>
-                  <td style="width: 33%"><span>腰圍 (CM)</span></td>
-                  <td style="width: 34%"><span>臀圍 (CM)</span></td>
+                  <td style="width: 33%"><span>腰圍 (厘米)</span></td>
+                  <td style="width: 34%"><span>臀圍 (厘米)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>XXS</span></td>
@@ -113,8 +113,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>意大利碼</span></td>
-                  <td style="width: 33%"><span>腰圍 (CM)</span></td>
-                  <td style="width: 34%"><span>臀圍 (CM)</span></td>
+                  <td style="width: 33%"><span>腰圍 (厘米)</span></td>
+                  <td style="width: 34%"><span>臀圍 (厘米)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>42</span></td>
@@ -184,8 +184,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>JEANS</span></td>
-                  <td style="width: 33%"><span>腰圍 (CM)</span></td>
-                  <td style="width: 34%"><span>臀圍 (CM)</span></td>
+                  <td style="width: 33%"><span>腰圍 (厘米)</span></td>
+                  <td style="width: 34%"><span>臀圍 (厘米)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>28-29</span></td>
@@ -254,8 +254,8 @@
         <div class="size-content" id="size-content-inches" style="display: none">
           <div class="size-type">
             <div class="size-title">
-              <span class="check-type" id="cm-type">cm</span>
-              <span class="check-type check-active">Inches</span>
+              <span class="check-type" id="cm-type">厘米</span>
+              <span class="check-type check-active">英寸</span>
             </div>
             <div class="size-select">
               <div class="select-type">
@@ -279,8 +279,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>國際碼</span></td>
-                  <td style="width: 33%"><span>腰圍 (IN)</span></td>
-                  <td style="width: 34%"><span>臀圍 (IN)</span></td>
+                  <td style="width: 33%"><span>腰圍 (英寸)</span></td>
+                  <td style="width: 34%"><span>臀圍 (英寸)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>XXS</span></td>
@@ -350,8 +350,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>意大利碼</span></td>
-                  <td style="width: 33%"><span>腰圍 (IN)</span></td>
-                  <td style="width: 34%"><span>臀圍 (IN)</span></td>
+                  <td style="width: 33%"><span>腰圍 (英寸)</span></td>
+                  <td style="width: 34%"><span>臀圍 (英寸)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>42</span></td>
@@ -421,8 +421,8 @@
               <tbody>
                 <tr class="tr-color tr-title">
                   <td style="width: 33%"><span>JEANS</span></td>
-                  <td style="width: 33%"><span>腰圍 (IN)</span></td>
-                  <td style="width: 34%"><span>臀圍 (IN)</span></td>
+                  <td style="width: 33%"><span>腰圍 (英寸)</span></td>
+                  <td style="width: 34%"><span>臀圍 (英寸)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>28-29</span></td>
