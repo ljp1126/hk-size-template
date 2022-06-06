@@ -6,11 +6,11 @@
       </div>
       <div class="text">ADIDAS X GUCCI MEN'S TOPS SIZE GUIDE</div>
     </div>
-    <div class="type">
+    <div class="type type-one">
       <!-- <div id="left-type" class="left active">尺碼表</div> -->
       <!-- <div id="right-type" class="right">如何測量</div> -->
       <div id="left-type" class="left active">SIZE & FIT</div>
-      <div id="right-type" class="right">HOW TO MEASURE</div>
+      <!-- <div id="right-type" class="right">HOW TO MEASURE</div> -->
     </div>
     <div class="table-info">
       <div class="size-info" id="sizeInfo">
@@ -344,53 +344,8 @@
             </table>
           </div>
         </div>
-        <div class="tips">
-          <div class="tips-title">Fit Tips：</div>
-          <div class="tips-content">Please note that the size chart refers to the measurement of oneself, but not the clothes itself.</div>
-          <div class="tips-content">If you're on the borderline between two sizes, please order the smaller size for a tighter fit or the larger size for a looser fit.</div>
-        </div>
       </div>
-      <div class="size-measure" id="measure">
-        <div class="measure">
-          <div class="img-info">
-            <div class="instructions">
-              <div class="steps-type">
-                <p class="tipinfo">Hold the tape horizontally to measure:</p>
-                <ul class="steps">
-                  <li class="step">
-                    <span class="step-title">1. Chest, </span>
-                    <span class="step-body">around the widest part</span>
-                  </li>
-                  <li class="step">
-                    <span class="step-title">2. Waist, </span>
-                    <span class="step-body">around the narrowest part</span>
-                  </li>
-                  <li class="step">
-                    <span class="step-title">3. Hip, </span>
-                    <span class="step-body">around the widest part, keeping the feet close together</span>
-                  </li>
-                </ul>
-              </div>
-              <div class="steps-type">
-                <p class="tipinfo">Hold the tape vertically to measure:</p>
-                <ul class="steps">
-                  <li class="step">
-                    <span class="step-title">4. Inseam, </span>
-                    <span class="step-body">from the crotch to the floor</span>
-                  </li>
-                  <li class="step">
-                    <span class="step-title">5. Height, </span>
-                    <span class="step-body">from the top of the head to the floor, keeping a straight posture</span>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div class="image-container">
-              <img src="https://img.adidas.com.hk/resources/images/size/measure-men.png" alt="" srcset="">
-            </div>
-          </div>
-        </div>
-      </div>
+      <div class="size-measure" id="measure"></div>
     </div>
   </div>
 </template>

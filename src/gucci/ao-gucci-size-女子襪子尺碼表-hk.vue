@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-06-02 18:34:30
- * @LastEditTime: 2022-06-06 13:39:03
+ * @LastEditTime: 2022-06-06 15:36:54
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -14,9 +14,9 @@
       </div>
       <div class="text">ADIDAS X GUCCI 女子襪子尺碼表</div>
     </div>
-    <div class="type">
+    <div class="type type-one">
       <div id="left-type" class="left active">尺碼表</div>
-      <div id="right-type" class="right">如何測量</div>
+      <!-- <div id="right-type" class="right">如何測量</div> -->
       <!-- <div id="left-type" class="left active">SIZE & FIT</div> -->
       <!-- <div id="right-type" class="right">HOW TO MEASURE</div> -->
     </div>
@@ -67,33 +67,7 @@
           </div>
         </div>
       </div>
-      <div class="size-measure" id="measure">
-        <div class="measure">
-          <div class="img-info">
-            <div class="instructions">
-              <div class="steps-type">
-                <ul class="steps">
-                  <li class="step">
-                    <span class="step-title">1. </span>
-                    <span class="step-body">踩在一張紙上，腳後跟稍微接觸後面的牆壁。</span>
-                  </li>
-                  <li class="step">
-                    <span class="step-title">2. </span>
-                    <span class="step-body">在紙上標出最長腳趾的末端（您可能需要朋友幫助）並測量從牆壁到標記的距離。</span>
-                  </li>
-                  <li class="step">
-                    <span class="step-title">3. </span>
-                    <span class="step-body">對另一隻腳做同樣的事情，並將測量結果與我們的尺碼表進行比較以獲得合適的尺碼。</span>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div class="image-container">
-              <img src="https://img.adidas.com.hk/resources/images/size/measure-shoes.png" alt="" srcset="">
-            </div>
-          </div>
-        </div>
-      </div>
+      <div class="size-measure" id="measure"></div>
     </div>
   </div>
 </template>
