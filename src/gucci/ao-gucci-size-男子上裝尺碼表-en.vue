@@ -1,24 +1,16 @@
-<!--
- * @Description: 
- * @Author: lijiapeng
- * @Date: 2022-06-02 18:23:44
- * @LastEditTime: 2022-06-06 10:57:47
- * @LastEditors: lijiapeng
- * @Reference: 
--->
 <template>
   <div class="content">
     <div class="top-title">
       <div class="sizeClose">
         <i id="closeDrawer" class="iconfont iconcross-small"></i>
       </div>
-      <div class="text">ADIDAS X GUCCI 男子上裝尺碼表</div>
+      <div class="text">ADIDAS X GUCCI MEN’S TOPS SIZE GUIDE</div>
     </div>
     <div class="type">
-      <div id="left-type" class="left active">尺碼表</div>
-      <div id="right-type" class="right">如何測量</div>
-      <!-- <div id="left-type" class="left active">SIZE & FIT</div> -->
-      <!-- <div id="right-type" class="right">HOW TO MEASURE</div> -->
+      <!-- <div id="left-type" class="left active">尺碼表</div> -->
+      <!-- <div id="right-type" class="right">如何測量</div> -->
+      <div id="left-type" class="left active">SIZE & FIT</div>
+      <div id="right-type" class="right">HOW TO MEASURE</div>
     </div>
     <div class="table-info">
       <div class="size-info" id="sizeInfo">
@@ -32,13 +24,13 @@
               <div class="select-type">
                 <div class="select-numb">
                   <span class="select-show">
-                    <span class="show-content" id="show-content-one">國際碼</span>
+                    <span class="show-content" id="show-content-one">International</span>
                     <img id="down-show-one" src="https://img.adidas.com.hk/resources/images/common/downArrow.png" alt="" srcset="">
                     <img id="up-show-one" style="display: none" src="https://img.adidas.com.hk/resources/images/common/upArrow.png" alt="" srcset="">
                   </span>
                   <div class="size-options" id="size-options-one" style="display: none">
-                    <div class="optionsItem" id="inl-code-one">國際碼</div>
-                    <div class="optionsItem" id="it-code-one">意大利碼</div>
+                    <div class="optionsItem" id="inl-code-one">International</div>
+                    <div class="optionsItem" id="it-code-one">IT</div>
                   </div>
                 </div>
               </div>
@@ -48,9 +40,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>國際碼</span></td>
-                  <td style="width: 33%"><span>肩寬 (CM)</span></td>
-                  <td style="width: 34%"><span>胸圍 (CM)</span></td>
+                  <td style="width: 33%"><span>SIZE</span></td>
+                  <td style="width: 33%"><span>SHOULDERS (CM)</span></td>
+                  <td style="width: 34%"><span>CHEST (CM)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>XXS</span></td>
@@ -119,9 +111,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>意大利碼</span></td>
-                  <td style="width: 33%"><span>肩寬 (CM)</span></td>
-                  <td style="width: 34%"><span>胸圍 (CM)</span></td>
+                  <td style="width: 33%"><span>IT</span></td>
+                  <td style="width: 33%"><span>SHOULDERS (CM)</span></td>
+                  <td style="width: 34%"><span>CHEST (CM)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>42</span></td>
@@ -197,13 +189,13 @@
               <div class="select-type">
                 <div class="select-numb">
                   <span class="select-show">
-                    <span class="show-content" id="show-content-two">國際碼</span>
+                    <span class="show-content" id="show-content-two">International</span>
                     <img id="down-show-two" src="https://img.adidas.com.hk/resources/images/common/downArrow.png" alt="" srcset="">
                     <img id="up-show-two" style="display: none" src="https://img.adidas.com.hk/resources/images/common/upArrow.png" alt="" srcset="">
                   </span>
                   <div class="size-options" id="size-options-two" style="display: none">
-                    <div class="optionsItem" id="inl-code-two">國際碼</div>
-                    <div class="optionsItem" id="it-code-two">意大利碼</div>
+                    <div class="optionsItem" id="inl-code-two">International</div>
+                    <div class="optionsItem" id="it-code-two">IT</div>
                   </div>
                 </div>
               </div>
@@ -213,9 +205,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>國際碼</span></td>
-                  <td style="width: 33%"><span>肩寬 (IN)</span></td>
-                  <td style="width: 34%"><span>胸圍 (IN)</span></td>
+                  <td style="width: 33%"><span>SIZE</span></td>
+                  <td style="width: 33%"><span>SHOULDERS (IN)</span></td>
+                  <td style="width: 34%"><span>CHEST (IN)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>XXS</span></td>
@@ -284,9 +276,9 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td style="width: 33%"><span>意大利碼</span></td>
-                  <td style="width: 33%"><span>肩寬 (IN)</span></td>
-                  <td style="width: 34%"><span>胸圍 (IN)</span></td>
+                  <td style="width: 33%"><span>IT</span></td>
+                  <td style="width: 33%"><span>SHOULDERS (IN)</span></td>
+                  <td style="width: 34%"><span>CHEST (IN)</span></td>
                 </tr>
                 <tr class="">
                   <td><span>42</span></td>
@@ -352,38 +344,43 @@
             </table>
           </div>
         </div>
+        <div class="tips">
+          <div class="tips-title">Fit Tips：</div>
+          <div class="tips-content">Please note that the size chart refers to the measurement of oneself, but not the clothes itself.</div>
+          <div class="tips-content">If you're on the borderline between two sizes, please order the smaller size for a tighter fit or the larger size for a looser fit.</div>
+        </div>
       </div>
       <div class="size-measure" id="measure">
         <div class="measure">
           <div class="img-info">
             <div class="instructions">
               <div class="steps-type">
-                <p class="tipinfo">水平握住捲尺進行測量：</p>
+                <p class="tipinfo">Hold the tape horizontally to measure:</p>
                 <ul class="steps">
                   <li class="step">
-                    <span class="step-title">1. 胸部，</span>
-                    <span class="step-body">圍繞最寬處</span>
+                    <span class="step-title">1. Chest, </span>
+                    <span class="step-body">around the widest part</span>
                   </li>
                   <li class="step">
-                    <span class="step-title">2. 腰圍，</span>
-                    <span class="step-body">圍繞最窄處</span>
+                    <span class="step-title">2. Waist, </span>
+                    <span class="step-body">around the narrowest part</span>
                   </li>
                   <li class="step">
-                    <span class="step-title">3. 臀部，</span>
-                    <span class="step-body">圍繞最寬處，保持雙腳併攏</span>
+                    <span class="step-title">3. Hip, </span>
+                    <span class="step-body">around the widest part, keeping the feet close together</span>
                   </li>
                 </ul>
               </div>
               <div class="steps-type">
-                <p class="tipinfo">垂直握住捲尺進行測量：</p>
+                <p class="tipinfo">Hold the tape vertically to measure:</p>
                 <ul class="steps">
                   <li class="step">
-                    <span class="step-title">4. 內長，</span>
-                    <span class="step-body">從胯部到地板</span>
+                    <span class="step-title">4. Inseam, </span>
+                    <span class="step-body">from the crotch to the floor</span>
                   </li>
                   <li class="step">
-                    <span class="step-title">5. 高度，</span>
-                    <span class="step-body">從頭頂到地板，保持筆直的姿勢</span>
+                    <span class="step-title">5. Height, </span>
+                    <span class="step-body">from the top of the head to the floor, keeping a straight posture</span>
                   </li>
                 </ul>
               </div>

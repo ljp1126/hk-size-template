@@ -344,30 +344,49 @@
             </table>
           </div>
         </div>
+        <div class="tips">
+          <div class="tips-title">測量建議：</div>
+          <div class="tips-content">請注意，尺碼表指的是自己的尺寸，而不是衣服本身。</div>
+          <div class="tips-content">如果你的尺碼在兩個尺碼之間，穿緊一點的，請訂小一號；穿寬鬆一點的，請訂大一號。</div>
+        </div>
       </div>
       <div class="size-measure" id="measure">
         <div class="measure">
           <div class="img-info">
             <div class="instructions">
               <div class="steps-type">
+                <p class="tipinfo">水平握住捲尺進行測量：</p>
                 <ul class="steps">
                   <li class="step">
-                    <span class="step-title">1. </span>
-                    <span class="step-body">Step on а piece of paper with your heel slightly touching a wall behind.</span>
+                    <span class="step-title">1. 胸部，</span>
+                    <span class="step-body">圍繞最寬處</span>
                   </li>
                   <li class="step">
-                    <span class="step-title">2. </span>
-                    <span class="step-body">Мark the end of your longest toe on the paper (you might need a friend to help you) and measure from the wall to the marking.</span>
+                    <span class="step-title">2. 腰圍，</span>
+                    <span class="step-body">圍繞最窄處</span>
                   </li>
                   <li class="step">
-                    <span class="step-title">3. </span>
-                    <span class="step-body">Do the same for the other foot and compare measurements with our size chart to get the right size.</span>
+                    <span class="step-title">3. 臀部，</span>
+                    <span class="step-body">圍繞最寬處，保持雙腳併攏</span>
+                  </li>
+                </ul>
+              </div>
+              <div class="steps-type">
+                <p class="tipinfo">垂直握住捲尺進行測量：</p>
+                <ul class="steps">
+                  <li class="step">
+                    <span class="step-title">4. 內長，</span>
+                    <span class="step-body">從胯部到地板</span>
+                  </li>
+                  <li class="step">
+                    <span class="step-title">5. 高度，</span>
+                    <span class="step-body">從頭頂到地板，保持筆直的姿勢</span>
                   </li>
                 </ul>
               </div>
             </div>
             <div class="image-container">
-              <img src="https://img.adidas.com.hk/resources/images/size/measure-shoes.png" alt="" srcset="">
+              <img src="https://img.adidas.com.hk/resources/images/size/measure-men.png" alt="" srcset="">
             </div>
           </div>
         </div>

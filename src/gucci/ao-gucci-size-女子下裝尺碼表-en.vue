@@ -800,6 +800,11 @@
             </table>
           </div>
         </div>
+        <div class="tips">
+          <div class="tips-title">Fit Tips：</div>
+          <div class="tips-content">Please note that the size chart refers to the measurement of oneself, but not the clothes itself.</div>
+          <div class="tips-content">If you're on the borderline between two sizes, please order the smaller size for a tighter fit or the larger size for a looser fit.</div>
+        </div>
       </div>
       <div class="size-measure" id="measure">
         <div class="measure">

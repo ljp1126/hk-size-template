@@ -800,6 +800,11 @@
             </table>
           </div>
         </div>
+        <div class="tips">
+          <div class="tips-title">測量建議：</div>
+          <div class="tips-content">請注意，尺碼表指的是自己的尺寸，而不是衣服本身。</div>
+          <div class="tips-content">如果你的尺碼在兩個尺碼之間，穿緊一點的，請訂小一號；穿寬鬆一點的，請訂大一號。</div>
+        </div>
       </div>
       <div class="size-measure" id="measure">
         <div class="measure">
