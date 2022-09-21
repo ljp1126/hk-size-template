@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-07 17:07:37
- * @LastEditTime: 2022-09-21 14:59:31
+ * @LastEditTime: 2022-09-21 16:05:24
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -141,7 +141,7 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td><span>亞洲碼 (A)</span></td>
+                  <td><span>亞洲碼</span></td>
                   <td><span>腰圍 (厘米)</span></td>
                   <td><span>臀圍 (厘米)</span></td>
                   <td><span>內長 (厘米)</span></td>
@@ -261,7 +261,7 @@
               </div>
             </div>
           </div>
-          <div class='size-chart' style="display:none" id="inter-code-item-two">
+          <div class='size-chart' id="inter-code-item-two">
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
@@ -309,7 +309,7 @@
               </tbody>
             </table>
           </div>
-          <div class='size-chart' id="asian-code-item-two">
+          <div class='size-chart' id="asian-code-item-two" style="display:none">
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
@@ -385,7 +385,7 @@
               </div>
             </div>
           </div>
-          <div class='size-chart' style="display:none" id="inter-code-item-three">
+          <div class='size-chart' id="inter-code-item-three">
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
@@ -433,7 +433,7 @@
               </tbody>
             </table>
           </div>
-          <div class='size-chart' id="asian-code-item-three">
+          <div class='size-chart' id="asian-code-item-three" style="display:none">
             <table>
               <tbody>
                 <tr class="tr-color tr-title">

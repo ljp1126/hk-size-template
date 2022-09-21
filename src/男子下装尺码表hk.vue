@@ -2,7 +2,7 @@
  * @Description: 男子下装尺码表
  * @Author: lijiapeng
  * @Date: 2022-04-02 14:56:47
- * @LastEditTime: 2022-09-21 14:26:24
+ * @LastEditTime: 2022-09-21 16:01:02
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -413,7 +413,7 @@
             <table>
               <tbody>
                 <tr class="tr-color tr-title">
-                  <td><span>亞洲碼(A)</span></td>
+                  <td><span>亞洲碼</span></td>
                   <td><span>腰圍 (厘米)</span></td>
                   <td><span>臀圍 (厘米)</span></td>
                   <td><span>內長 (厘米)</span></td>
