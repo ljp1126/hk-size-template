@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: lijiapeng
  * @Date: 2022-04-07 17:07:45
- * @LastEditTime: 2022-05-27 13:25:37
+ * @LastEditTime: 2022-09-21 15:00:01
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -146,43 +146,48 @@
                   <td><span>Hip (cm)</span></td> 
                   <td><span>Inseam (cm)</span></td> 
                 </tr> 
-                <tr class=""> 
-                  <td><span>A/XS</span></td> 
-                  <td><span>64 - 69</span></td> 
-                  <td><span>88 - 93</span></td> 
-                  <td><span>77</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>A/S</span></td> 
-                  <td><span>70 - 75</span></td> 
-                  <td><span>94 - 99</span></td> 
-                  <td><span>77</span></td> 
+                <tr class="">
+                  <td><span>A/2XS</span></td>
+                  <td><span>59 - 61</span></td>
+                  <td><span>79 - 82</span></td>
+                  <td><span>73.5</span></td>
+                </tr>
+                <tr class="tr-color">
+                  <td><span>A/XS</span></td>
+                  <td><span>62 - 64</span></td>
+                  <td><span>83 - 86</span></td>
+                  <td><span>74</span></td>
+                </tr>
+                <tr class="">
+                  <td><span>A/S</span></td>
+                  <td><span>65 - 68</span></td>
+                  <td><span>87 - 90</span></td>
+                  <td><span>74.5</span></td>
+                </tr>
+                <tr class="tr-color">
+                  <td><span>A/M</span></td>
+                  <td><span>69 - 72</span></td>
+                  <td><span>91 - 94</span></td>
+                  <td><span>75</span></td>
+                </tr>
+                <tr class="">
+                  <td><span>A/L</span></td>
+                  <td><span>73 - 78</span></td>
+                  <td><span>95 - 100</span></td>
+                  <td><span>75.5</span></td>
                 </tr>
 
-                <tr class=""> 
-                  <td><span>A/M</span></td> 
-                  <td><span>76 - 83</span></td> 
-                  <td><span>100 - 105</span></td> 
-                  <td><span>79</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>A/L</span></td> 
-                  <td><span>84 - 90</span></td> 
-                  <td><span>107 - 113</span></td> 
-                  <td><span>80</span></td> 
+                <tr class="tr-color">
+                  <td><span>A/XL</span></td>
+                  <td><span>79 - 86</span></td>
+                  <td><span>101 - 106</span></td>
+                  <td><span>76</span></td>
                 </tr>
-
-                <tr class=""> 
-                  <td><span>A/XL</span></td> 
-                  <td><span>91 - 98</span></td> 
-                  <td><span>114 - 121</span></td> 
-                  <td><span>80</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>A2XL</span></td> 
-                  <td><span>99 - 105</span></td> 
-                  <td><span>122 - 128</span></td> 
-                  <td><span>81</span></td> 
+                <tr class="">
+                  <td><span>A/2XL</span></td>
+                  <td><span>87 - 94</span></td>
+                  <td><span>107 - 112</span></td>
+                  <td><span>76.5</span></td>
                 </tr>
                 
               </tbody> 
@@ -313,41 +318,47 @@
                   <td><span>Hip (cm)</span></td> 
                   <td><span>Inseam (cm)</span></td> 
                 </tr> 
-                <tr class=""> 
-                  <td><span>AXS2"</span></td> 
-                  <td><span>64 - 69</span></td> 
-                  <td><span>88 - 93</span></td> 
-                  <td><span>5.1</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>A/S2"</span></td> 
-                  <td><span>70 - 75</span></td> 
-                  <td><span>94 - 99</span></td> 
-                  <td><span>5.1</span></td> 
+                <tr class="">
+                  <td><span>A/2XS2"</span></td>
+                  <td><span>59 - 61</span></td>
+                  <td><span>79 - 82</span></td>
+                  <td><span>5.1</span></td>
                 </tr>
-                <tr class=""> 
-                  <td><span>A/M2"</span></td> 
-                  <td><span>76 - 83</span></td> 
-                  <td><span>100 - 105</span></td> 
-                  <td><span>5.1</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>A/L2"</span></td> 
-                  <td><span>84 - 90</span></td> 
-                  <td><span>107 - 113</span></td> 
-                  <td><span>5.1</span></td> 
+                <tr class="tr-color">
+                  <td><span>A/XS2"</span></td>
+                  <td><span>62 - 64</span></td>
+                  <td><span>83 - 86</span></td>
+                  <td><span>5.1</span></td>
                 </tr>
-                <tr class=""> 
-                  <td><span>AXL2"</span></td> 
-                  <td><span>91 - 98</span></td> 
-                  <td><span>114 - 121</span></td> 
-                  <td><span>5.1</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>A2XL2"</span></td> 
-                  <td><span>99 - 105</span></td> 
-                  <td><span>122 - 128</span></td> 
-                  <td><span>5.1</span></td> 
+                <tr class="">
+                  <td><span>A/S2"</span></td>
+                  <td><span>65 - 68</span></td>
+                  <td><span>87 - 90</span></td>
+                  <td><span>5.1</span></td>
+                </tr>
+                <tr class="tr-color">
+                  <td><span>A/M2"</span></td>
+                  <td><span>69 - 72</span></td>
+                  <td><span>91 - 94</span></td>
+                  <td><span>5.1</span></td>
+                </tr>
+                <tr class="">
+                  <td><span>A/L2"</span></td>
+                  <td><span>73 - 78</span></td>
+                  <td><span>95 - 100</span></td>
+                  <td><span>5.1</span></td>
+                </tr>
+                <tr class="tr-color">
+                  <td><span>A/XL2"</span></td>
+                  <td><span>79 - 86</span></td>
+                  <td><span>101 - 106</span></td>
+                  <td><span>5.1</span></td>
+                </tr>
+                <tr class="">
+                  <td><span>A/2XL2"</span></td>
+                  <td><span>87 - 94</span></td>
+                  <td><span>107 - 112</span></td>
+                  <td><span>5.1</span></td>
                 </tr>
               </tbody> 
             </table>
@@ -431,41 +442,47 @@
                   <td><span>Hip (cm)</span></td> 
                   <td><span>Inseam (cm)</span></td> 
                 </tr> 
-                <tr class=""> 
-                  <td><span>AXS4"</span></td> 
-                  <td><span>64 - 69</span></td> 
-                  <td><span>88 - 93</span></td> 
-                  <td><span>10.2</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>A/S4"</span></td> 
-                  <td><span>70 - 75</span></td> 
-                  <td><span>94 - 99</span></td> 
-                  <td><span>10.2</span></td> 
+                <tr class="">
+                  <td><span>A/2XS4"</span></td>
+                  <td><span>59 - 61</span></td>
+                  <td><span>79 - 82</span></td>
+                  <td><span>10.2</span></td>
                 </tr>
-                <tr class=""> 
-                  <td><span>A/M4"</span></td> 
-                  <td><span>76 - 83</span></td> 
-                  <td><span>100 - 105</span></td> 
-                  <td><span>10.2</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>A/L4"</span></td> 
-                  <td><span>84 - 90</span></td> 
-                  <td><span>107 - 113</span></td> 
-                  <td><span>10.2</span></td> 
+                <tr class="tr-color">
+                  <td><span>A/XS4"</span></td>
+                  <td><span>62 - 64</span></td>
+                  <td><span>83 - 86</span></td>
+                  <td><span>10.2</span></td>
                 </tr>
-                <tr class=""> 
-                  <td><span>AXL4"</span></td> 
-                  <td><span>91 - 98</span></td> 
-                  <td><span>114 - 121</span></td> 
-                  <td><span>10.2</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>A2XL4"</span></td> 
-                  <td><span>99 - 105</span></td> 
-                  <td><span>122 - 128</span></td> 
-                  <td><span>10.2</span></td> 
+                <tr class="">
+                  <td><span>A/S4"</span></td>
+                  <td><span>65 - 68</span></td>
+                  <td><span>87 - 90</span></td>
+                  <td><span>10.2</span></td>
+                </tr>
+                <tr class="tr-color">
+                  <td><span>A/M4"</span></td>
+                  <td><span>69 - 72</span></td>
+                  <td><span>91 - 94</span></td>
+                  <td><span>10.2</span></td>
+                </tr>
+                <tr class="">
+                  <td><span>A/L4"</span></td>
+                  <td><span>73 - 78</span></td>
+                  <td><span>95 - 100</span></td>
+                  <td><span>10.2</span></td>
+                </tr>
+                <tr class="tr-color">
+                  <td><span>A/XL4"</span></td>
+                  <td><span>79 - 86</span></td>
+                  <td><span>101 - 106</span></td>
+                  <td><span>10.2</span></td>
+                </tr>
+                <tr class="">
+                  <td><span>A/2XL4"</span></td>
+                  <td><span>87 - 94</span></td>
+                  <td><span>107 - 112</span></td>
+                  <td><span>10.2</span></td>
                 </tr>
               </tbody> 
             </table>

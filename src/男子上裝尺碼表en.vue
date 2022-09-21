@@ -2,7 +2,7 @@
  * @Description: 男子上装尺码表 en
  * @Author: lijiapeng
  * @Date: 2022-04-02 14:04:56
- * @LastEditTime: 2022-05-05 09:50:33
+ * @LastEditTime: 2022-09-21 13:33:14
  * @LastEditors: lijiapeng
  * @Reference: 
 -->
@@ -165,115 +165,62 @@
                   <td><span>Waist (cm)</span></td> 
                   <td><span>Hip (cm)</span></td> 
                 </tr> 
-                <tr class=""> 
-                  <td><span>-</span></td> 
-                  <td><span>A/2XS </span></td> 
-                  <td><span>74 - 76 </span></td> 
-                  <td><span>64 - 66</span></td> 
-                  <td><span> 76 - 79</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>A38 </span></td> 
-                  <td rowspan="2"><span>A/XS</span></td> 
-                  <td rowspan="2"><span>79 - 84</span></td> 
-                  <td rowspan="2"><span>69 - 74</span></td> 
-                  <td rowspan="2"><span>81 - 86</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span> A40</span></td> 
-                </tr> 
-
-                <tr class=""> 
-                  <td><span>A42</span></td> 
-                  <td rowspan="2"><span>A/S</span></td> 
-                  <td rowspan="4"><span>86 - 94</span></td> 
-                  <td rowspan="4"><span>76 - 81</span></td> 
-                  <td rowspan="4"><span>89 - 94 </span></td> 
-                </tr> 
-                <tr class=""> 
-                  <td><span>A44</span></td> 
-                </tr> 
-                <tr class=""> 
-                  <td><span>A46</span></td> 
-                  <td rowspan="2"><span>A/M</span></td> 
-                </tr> 
-                <tr class=""> 
-                  <td><span>A48</span></td> 
-                </tr> 
-
-                <tr class="tr-color"> 
-                  <td><span>A50</span></td> 
-                  <td rowspan="2"><span>A/L</span></td> 
-                  <td rowspan="4"><span>94 - 102</span></td> 
-                  <td rowspan="4"><span>81 - 89</span></td> 
-                  <td rowspan="4"><span>94 - 102</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>A52</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>A54</span></td> 
-                  <td rowspan="2"><span>A/XL</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span>A56</span></td> 
-                </tr> 
-
-                <tr class=""> 
-                  <td><span>A58</span></td> 
-                  <td rowspan="2"><span>A/2XL</span></td> 
-                  <td rowspan="4"><span>102 - 112</span></td> 
-                  <td rowspan="4"><span>89 - 99</span></td> 
-                  <td rowspan="4"><span>102 - 112</span></td> 
-                </tr> 
-                <tr class=""> 
-                  <td><span>A60</span></td> 
-                </tr> 
-                <tr class=""> 
-                  <td><span>A62</span></td> 
-                  <td rowspan="2"><span>A/3XL</span></td> 
-                </tr> 
-                <tr class=""> 
-                  <td><span>A64</span></td> 
+                <tr class="">
+                  <td><span>A/2XS </span></td>
+                  <td><span>A36</span></td>
+                  <td><span>81 - 82.5 </span></td>
+                  <td><span>67 - 68.5</span></td>
+                  <td><span>81.5</span></td>
                 </tr>
-
-                <tr class="tr-color"> 
-                  <td><span> -</span></td> 
-                  <td><span> -</span></td> 
-                  <td rowspan="2"><span>112 - 122</span></td> 
-                  <td rowspan="2"><span>99 - 109</span></td> 
-                  <td rowspan="2"><span>112 - 122 </span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span> -</span></td> 
-                  <td><span> -</span></td> 
-                </tr>  
-
-                <tr class=""> 
-                  <td><span> -</span></td> 
-                  <td><span> -</span></td> 
-                  <td rowspan="2"><span>122 - 132</span></td> 
-                  <td rowspan="2"><span>109 - 119</span></td> 
-                  <td rowspan="2"><span>122 - 130</span></td> 
-                </tr> 
-                <tr class=""> 
-                  <td><span> -</span></td> 
-                  <td><span> -</span></td> 
-                </tr> 
-
-                <tr class="tr-color"> 
-                  <td><span> -</span></td> 
-                  <td><span> -</span></td> 
-                  <td rowspan="2"><span>135 - 147</span></td> 
-                  <td rowspan="2"><span>122 - 135</span></td> 
-                  <td rowspan="2"><span>130 - 142</span></td> 
-                </tr> 
-                <tr class="tr-color"> 
-                  <td><span> -</span></td> 
-                  <td><span> -</span></td> 
-                </tr> 
-
-              
+                <tr class="tr-color">
+                  <td><span>A/XS</span></td>
+                  <td><span>A38</span></td>
+                  <td><span>83.5 - 85</span></td>
+                  <td><span>69.5 - 71</span></td>
+                  <td><span>82.5 - 84</span></td>
+                </tr>
+                <tr class="">
+                  <td ><span>A/S</span></td>
+                  <td><span>A42</span></td>
+                  <td><span>86 - 90</span></td>
+                  <td><span>72 - 76</span></td>
+                  <td><span>85 - 89</span></td>
+                </tr>
+                <tr class="tr-color">
+                  <td><span>A/M</span></td>
+                  <td><span>A46</span></td>
+                  <td><span>91 - 95</span></td>
+                  <td><span>77 - 81</span></td>
+                  <td><span>90 - 94</span></td>
+                </tr>
+                <tr class="">
+                  <td><span>A/L</span></td>
+                  <td><span>A50</span></td>
+                  <td><span>96 - 100</span></td>
+                  <td><span>82 - 86</span></td>
+                  <td><span>95 - 99</span></td>
+                </tr>
+                <tr class="tr-color">
+                  <td><span>A/XL</span></td>
+                  <td><span>A54</span></td>
+                  <td><span>101 - 106</span></td>
+                  <td><span>87 - 93</span></td>
+                  <td><span>100 - 105</span></td>
+                </tr>
+                <tr class="">
+                  <td><span>A/2XL</span></td>
+                  <td><span>A58</span></td>
+                  <td><span>107 - 112</span></td>
+                  <td><span>94 - 100</span></td>
+                  <td><span>106 - 111</span></td>
+                </tr>
+                <tr class="tr-color">
+                  <td><span>A/3XL</span></td>
+                  <td><span>A62</span></td>
+                  <td><span>113 - 119</span></td>
+                  <td><span>101 - 108</span></td>
+                  <td><span>112 - 118</span></td>
+                </tr>
               </tbody> 
             </table>
           </div>
